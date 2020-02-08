@@ -1,0 +1,3032 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D5DE7A.4D5A7D50"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive.
+
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List href=3D"index_files/filelist.xml">
+<link rel=3DPreview href=3D"index_files/preview.wmf">
+<link rel=3DEdit-Time-Data href=3D"index_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>TMJumpAction Help File (Eng)</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Kara</o:Author>
+  <o:LastAuthor>Kara</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>21</o:TotalTime>
+  <o:Created>2020-02-08T17:21:00Z</o:Created>
+  <o:LastSaved>2020-02-08T17:21:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>2107</o:Words>
+  <o:Characters>12015</o:Characters>
+  <o:Lines>100</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14094</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"index_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"index_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseWord2010TableStyleRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"375">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"59" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Mention"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Smart Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hashtag"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Unresolved Mention"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Meiryo;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520027393 -355991553 65554 0 131231 0;}
+@font-face
+	{font-family:"\@Meiryo";
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520027393 -355991553 65554 0 131231 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+h1
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:24.0pt;
+	mso-bidi-font-size:24.0pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:18.0pt;
+	font-weight:bold;}
+span.red
+	{mso-style-name:red;
+	mso-style-unhide:no;}
+span.bloq
+	{mso-style-name:bloq;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:22.5pt .25in 1.0in 13.5pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>attack<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>Press The Z Key To Fire A Bullet And Damage The Opponent Hit.<=
+br>
+<br>
+If The Total Value Of The <span class=3DSpellE>Shot_way</span> Tags Of The
+Operation Character Is 0 Or Less, You<br>
+Can Not Fire A Bullet.<br>
+<br>
+If The Plugin Parameter &quot;<span class=3DSpellE>WeaponSprite</span>&quot=
+; Is
+ON (True), The Weapon Image Will Be Displayed&nbsp;When Attacking.<br>
+Along With This Function, It Is Also Possible To Express A Short Range Atta=
+ck
+By&nbsp;Shortening The Distance Of The Bullet And Applying A Transparent Bu=
+llet
+Image&nbsp;.<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>defense<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>If the total value of the <span class=3DSpellE>guard_speed</sp=
+an>
+tag of the operation character is 1 or more, you<br>
+can execute the defense action by holding down &#8595;.<br>
+<br>
+The higher the total value, the shorter the required input time. If the tot=
+al
+value is 0 or less, no matter how long you keep pressing &#8595;, no defens=
+ive
+action will be performed. While performing a defensive action, a defensive
+state is added and movement speed is reduced.<br>
+<br>
+If you stop holding down &#8595;, the defensive action will also be cancele=
+d. The
+state to be added and the correction rate of movement speed can be changed =
+by
+plug-in parameters. If </span><span style=3D'font-size:12.0pt;font-family:"=
+Meiryo",sans-serif'>the
+defense state is set to automatic release, the state will be released
+periodically&nbsp;even if you keep pressing &#8595;. Set the automatic rele=
+ase
+timing to none. <span style=3D'color:red'><br>
+<br>
+</span>No <span style=3D'color:black'>defense action is taken in the follow=
+ing
+situations:<br>
+&#12539; Jumping<br>
+&#12539; Moving ladder<br>
+&#12539; Lifting<br>
+&#12539; Swimming<br>
+&#12539; During&nbsp;re-attack after attack&nbsp;<br>
+&#12539; During&nbsp;re-dash after dash<o:p></o:p></span></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>dash<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>You Can Move Quickly <span class=3DGramE>By</span> Pressing Th=
+e C
+Key.<br>
+<br>
+By Hitting An Opponent Who&nbsp;Is Lighter Than You (The Total Value Of The
+Weight Tags Is Lower) During The Sprint's Duration, You Can Repel The
+Opponent.&nbsp;You Can Change <span class=3DGramE>The</span> Skill Used As =
+The
+Formula for calculating the damage caused by flipping with the plug-in
+parameters.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>By setting an animation for this skill with the <span
+class=3DSpellE>bullet_anime</span> tag,<br>
+you can apply the animation to the target where the&nbsp;jumping&nbsp;has
+occurred.<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Lifting &amp; throwing<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>Press The Z Key While Pressing &#65516; While Riding On The
+Opponent To<br>
+Lift The&nbsp;<span class=3DGramE>Opponent&nbsp;.</span><br>
+<br>
+However, If The Lifting Force (Total Value Of The <span class=3DSpellE>Carr=
+y_power</span>
+Tag) Is Lower&nbsp;Than The Opponent's Weight,&nbsp;You Can Not Lift.<br>
+<br>
+After Lifting, Press Z Again To Throw the opponent. At this time, the throw=
+ing
+method changes depending on the direction of the key input.<br>
+&#8593; + <span class=3DGramE>Z&nbsp;:</span> Throw upward<br>
+&#8595; + Z&nbsp;:&nbsp;Throw&nbsp;lightly in the&nbsp;direction you are fa=
+cing<br>
+Z&nbsp;: Throw strongly in the direction you are facing<o:p></o:p></span></=
+p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Memo column tag (actor, equipment, state)<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>Action parameters (such as jumping power) are set using the me=
+mo
+field.<br>
+For example, if you write &lt;<span class=3DSpellE>jump_speed</span>: 0.1&g=
+t; in
+the memo field of an<br>
+actor, the jump power&nbsp;of&nbsp;that actor will be set to 0.1.<br>
+<br>
+Similar tags can be written on weapons, armor, and states, and the final
+parameters<br>
+will be the sum of the values &#8203;&#8203;set for the equipment and attac=
+hed
+states.<br>
+<br>
+If the actor does not have a tag, the initial value is automatically set.<b=
+r>
+</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:red'>(Hereafter, the numerical value is the initial value when there =
+is
+no tag.)</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:black'><br>
+<br>
+&lt;<span class=3DSpellE>Move_speed</span>: 0.05&gt;<br>
+&#12288;Set the maximum speed of movement by &#8592; / &#8594;.<br>
+<br>
+&lt;<span class=3DSpellE>accele</span>: 0.003&gt;<br>
+&#12288;Set the acceleration of movement by &#8592; / &#8594;.<br>
+&#12288;If this value is low, the time required for the key input to be
+reflected in the movement speed will be longer.<br>
+&#12288;<br>
+<br>
+&lt;<span class=3DSpellE>jump_speed</span>: 0.14&gt;<br>
+&#12288;Set the initial speed of jump by X.<br>
+<br>
+&lt;<span class=3DSpellE>jump_input</span>: 0&gt;<br>
+&#12288;Set the time for the jump by X to maintain the initial speed without
+being affected by gravity.<br>
+&#12288;For example, if this value is 20, you can continue to climb without
+deceleration&nbsp;by holding down the X key for 20 frames&nbsp;.<br>
+&#12288;Set this when you want to adjust the jump height by key input.<br>
+<br>
+&lt;<span class=3DSpellE>ladder_speed</span>: 0.04&gt;<br>
+&#12288;Set the maximum speed when moving by &#8593; / &#8595; with a ladde=
+r.<br>
+<br>
+&lt;<span class=3DSpellE>ladder_accele</span>: 0.003&gt;<br>
+&#12288;Set the acceleration when moving by&nbsp;&#12399;/ &#8595; with a
+ladder.<br>
+&#12288;If this value is low, the time required for the key input to be
+reflected in the movement speed will be longer.<br>
+<br>
+&lt;<span class=3DSpellE>swim_speed</span>: 0.02&gt;<br>
+&#12288;Set the maximum speed when moving with &#8592; / &#8594; underwater=
+.<br>
+<br>
+&lt;<span class=3DSpellE>swim_jump</span>: 0.1&gt;<br>
+&#12288;Set the initial speed when jumping with X underwater.<br>
+<br>
+&lt;<span class=3DSpellE>dash_speed_x</span>: 0.14&gt;<br>
+&#12288;Set the initial speed (lateral direction) of dash movement by C.<br>
+<br>
+&lt;<span class=3DSpellE>dash_speed_y</span>: 0.03&gt;<br>
+&#12288;Set the initial speed (vertical direction) of dash movement by C.<b=
+r>
+<br>
+&lt;<span class=3DSpellE>dash_count</span>: 15&gt;<br>
+&#12288;Set the duration of the dash by C.<br>
+<br>
+&lt;<span class=3DSpellE>dash_delay</span>: 30&gt;<br>
+&#12288;Set the time between the start of dash by C and the next dash possi=
+ble.<br>
+<br>
+&lt;<span class=3DSpellE>dash_mp_cost</span>: 0&gt;<br>
+&#12288;Set the MP to consume when using C dash.<br>
+&#12288;If this value is 1 or more, the dash cannot be used if the remainin=
+g MP
+is insufficient.<br>
+<br>
+&lt;<span class=3DSpellE>mulch_jump</span>: 1&gt;<br>
+<br>
+&#12288;By setting a value of 2 or more, so-called aerial jump is possible.=
+<br>
+<br>
+&lt;<span class=3DSpellE>wall_jump</span>&gt;<br>
+&#12288;After jumping by X<br>
+&#12288;, set whether or not to jump to a higher level&nbsp;by pressing X a=
+gain
+toward the adjacent wall&nbsp;, so-called wall jump.<br>
+<br>
+&lt;gravity: 0.0045&gt;<br>
+&#12288;Set the gravity (acceleration downward).<br>
+<br>
+&lt;weight: 0&gt;<br>
+&#12288;Set how much heavier opponent can be hit by dash by C.<br>
+<br>
+&lt;<span class=3DSpellE>carry_power</span>: 0&gt;<br>
+&#12288;&#8595; Set how heavy the opponent can lift with + Z.<br>
+&#12288;If this value is greater than the weight of the opponent, lifting is
+possible.<br>
+<br>
+&lt;<span class=3DSpellE>fall_guard</span>: 0&gt;<br>
+&#12288;Set the reduction rate of fall damage (damage received when falling
+from a high place).<br>
+&#12288;If the value is 50, the damage is halved. If the value is 100, the =
+drop
+damage processing is ignored.<br>
+<br>
+&lt;<span class=3DSpellE>guard_speed</span>: 0&gt;<br>
+&#12288;Set the speed from when you start pressing &#8595; until you are in
+defense.<br>
+&#12288;A value of 10 will take about 1 second, and a value of 20 will take
+about 0.5 second.<br>
+&#12288;If 0, no defensive action is available.<br>
+<br>
+&lt;<span class=3DSpellE>invincible_time</span>: 30&gt;<br>
+&#12288;Set the invincible time after hitting a bullet.<br>
+&#12288;If this value is 30, hitting a bullet for 30 frames from the moment=
+ it
+hits<br>
+&#12288;will not take any damage.<br>
+<br>
+&lt;<span class=3DSpellE>shot_way</span>: 0&gt;<br>
+&#12288;Sets the number of bullets fired simultaneously by Z attack.<br>
+<br>
+&lt;<span class=3DSpellE>shot_space</span>: 0.2&gt;<br>
+&#12288;Set the interval (difference in angle) between bullets fired
+simultaneously by Z attack.<br>
+&#12288;The unit is radian. If you set 3.141592, there will be a difference=
+ of
+180 degrees.<br>
+&#12288;This parameter is ignored if the value of <span class=3DSpellE>shot=
+_way</span>
+is 1 or less.<br>
+<br>
+&lt;<span class=3DSpellE>shot_speed</span>: 1.0&gt;<br>
+&#12288;Sets the speed at which bullets fired by Z strikes move.<br>
+<br>
+&lt;<span class=3DSpellE>shot_count</span>: 30&gt;<br>
+&#12288;Sets the time before a bullet fired by an attack by Z disappears.<b=
+r>
+<br>
+&lt;<span class=3DSpellE>shot_delay</span>: 10&gt;<br>
+&#12288;Set the time after an attack by Z before it can be attacked again.<=
+br>
+<br>
+&lt;<span class=3DSpellE>shot_type</span>: 1&gt;<br>
+&#12288;Sets the type of bullet fired by Z attacks.<br>
+&#12288;The differences for each type can be set with plugin parameters.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;<span class=3DSpellE>shot_index</span>: 0&gt;<br>
+&#12288;Sets the image index of the bullet fired by Z attack.<br>
+&#12288;If the value is 0, it is the one on the left side of the image, and=
+ if
+the value increases by 1, the image will shift one position to the right.<b=
+r>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;<span class=3DSpellE>shot_skill</span>: 0&gt;<br>
+&#12288;Sets the skill used to calculate the damage of Z attacks.<br>
+&#12288;If this value is 0, the formula for the basic attack is used.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;<span class=3DSpellE>shot_se_name</span>: Wind1&gt;<br>
+&#12288;Sets the file name of the sound effect of the Z attack.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;<span class=3DSpellE>shot_se_volume</span>: 90&gt;<br>
+&#12288;Sets the volume of the sound effect of the Z attack.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;<span class=3DSpellE>shot_se_pitch</span>: 100&gt;<br>
+&#12288;Sets the pitch of the sound effect of the Z attack.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This value is not added, and the first tag found in the order of
+State&gt; Equipment&gt; Actor is adopted.</span><span style=3D'font-size:12=
+.0pt;
+font-family:"Meiryo",sans-serif;color:black'><o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Memo column tag (event)<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>By writing a tag in the memo column of the event, you&nbsp;can
+change the collision judgment&nbsp;and set the parameters as the enemy
+character.&nbsp;You can set different parameters for each page by writing a=
+ tag
+to the annotation command at the beginning of the event execution content
+instead of the memo field.<br>
+If the same tag exists in both the memo field and the annotation, the
+annotation takes precedence.<br>
+<br>
+&lt;w: 0.375&gt;<br>
+&#12288;Set the&nbsp;hit&nbsp;judgment (size from the center to the left and
+right edges).<br>
+&#12288;1.0 is equivalent to 48 dots<br>
+&#12288;. If you want to judge&nbsp;a character with a width of 96
+dots&nbsp;from the left end to the right end and set a judgment, set it to =
+1.0.<br>
+&#12288;1.0 (48 dots) to the left and 1.0 (48 dots) to the right from the
+center is effectively 2.0 (96 dots).<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This tag can also be used in actor notes.</span><span
+style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;h: 0.75&gt;<br>
+&#12288;Set the hit judgment (size from foot to head).<br>
+&#12288;1.0 is equivalent to 48 dots. <br>
+If you want&nbsp;a character with a height of 96 dots&nbsp;to hit the entir=
+e&nbsp;character
+from the&nbsp;foot to the head, set it to 2.0.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>This tag can also be used in actor notes.</span><span
+style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;color:black'><br>
+<br>
+&lt;enemy: 1&gt;<br>
+&#12288;Set the enemy number.<br>
+&#12288;The HP of the event and the attack power of the bullet<br>
+&#12288;are determined by the&nbsp;enemy&nbsp;parameters&nbsp;set with this=
+ tag.<br>
+<br>
+&lt;dead: A&gt;<br>
+&#12288;Set a self-switch that will be turned on when this event is disable=
+d.<br>
+<br>
+&lt;<span class=3DSpellE>repop</span>: 300&gt;<br>
+&#12288;Set the time until the <span class=3DSpellE>self switch</span> spec=
+ified
+by dead turns off.<br>
+&#12288;If you want to&nbsp;create a normal state on page 1 and a non-combat
+state on page 2,&nbsp;write dead and <span class=3DSpellE>repop</span> in t=
+he
+notes field, and write the enemy tag in the note on page 1.<br>
+<br>
+&lt;lift&gt; Adds a<br>
+&#12288;lift attribute to the event.<br>
+&#12288;If you move an event with the lift attribute, the event or player on
+top can move with it.<br>
+<br>
+&lt;weight: 0&gt;<br>
+&#12288;Set the weight that resists dashing by C and lifting by &#8595; + Z=
+.<br>
+<br>
+&lt;gravity: 0.004&gt;<br>
+&#12288;Set the gravity (acceleration downward).<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Memo column tag (skill)<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>Write mainly to fine-tune the behavior of Z ammunition bullets=
+.<br>
+<br>
+&lt;<span class=3DSpellE>bullet_anime</span>: 67&gt;<br>
+&#12288;Set the animation number to play when landing.<br>
+&#12288;Without this tag, the animation will not be displayed.<br>
+&#12288;By attaching this tag to the flipping damage calculation skill, you=
+ can
+also play the animation on the target&nbsp;where the&nbsp;flipping occurred=
+.<br>
+<br>
+&lt;<span class=3DSpellE>map_through</span>&gt;<br>
+&#12288;Set whether bullets penetrate the terrain.<br>
+&#12288;With this tag, bullets will not disappear even if they come into
+contact with impermeable tiles.<br>
+<br>
+&lt;<span class=3DSpellE>map_reflect</span>&gt;<br>
+&#12288;Determines whether bullets bounce off the terrain.<br>
+&#12288;With this tag, the bullet will not disappear even if it comes into
+contact with an impassable tile, and will continue to bounce.<br>
+<br>
+&lt;gravity: 0.004&gt;<br>
+&#12288;Set the gravity (downward acceleration) for the bullet.<br>
+<br>
+&lt;<span class=3DSpellE>time_bomb</span> 6 0 0.2 45 1 0 1&gt;<br>
+&#12288;Fires a new bullet when the bullet expires and is deleted.<br>
+&#12288;In this tag, set a total of seven values &#8203;&#8203;from&nbsp;n =
+to <span
+class=3DSpellE>skillId</span> of the plug-in command &quot;<span class=3DSp=
+ellE>nallShot</span>&quot;,
+separated by a space.<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Event command<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>Some event commands have changed behavior for jump actions.<br>
+<br>
+Movement route setting<br>
+&#12288;X The value of X in the&nbsp;jump&nbsp;offset is the amount of move=
+ment
+in the horizontal direction, and the value of Y is the jump force.<br>
+&#12288;If the value of X is 0, the action jumps on the spot.<br>
+&#12288;If the value of Y is 0, jump with the jump power set for the event.=
+<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>To jump upward, set the Y value to 0 or a negative value.<br
+style=3D'mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]></span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-=
+serif;
+color:black'><o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Plugin command<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>The parameters related&nbsp;to the&nbsp;jump action can be
+obtained and changed&nbsp;by executing the event command &quot;Plug-in
+command&quot;.<br>
+<br>
+<span class=3DSpellE>actGainHp</span> -1 -5 Deals<br>
+&#12288;5 damage to player.<br>
+<br>
+<span class=3DSpellE>actGainHp</span> 1 -100 Deals<br>
+&#12288;100 damage to Event&nbsp;# 1.<br>
+<br>
+<span class=3DSpellE>actHp</span> 1 2 Assign<br>
+&#12288;the HP of event 1 to game variable 2.<br>
+<br>
+<span class=3DSpellE>actForceX</span> -1 0.1 Force the<br>
+&#12288;player's lateral speed to 0.1.<br>
+<br>
+<span class=3DSpellE>actForceY</span> 1 -0.15<br>
+&#12288;Forcibly change the vertical speed of event 1 to -0.15.<br>
+<br>
+<span class=3DSpellE>actForceStop</span> -1<br>
+&#12288;Forcibly change the player's speed to 0 both vertically and
+horizontally.<br>
+<br>
+<span class=3DSpellE>actChangeActor</span> 2 Change the<br>
+&#12288;operating character to actor 2.<br>
+&#12288;</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-se=
+rif;
+color:red'>(Ignored if the specified actor is not at the party or is out of
+combat)</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-ser=
+if;
+color:black'><br>
+<br>
+<span class=3DSpellE>actHideHpGauge</span> Hides the<br>
+&#12288;foot HP gauge at the foot.<br>
+<br>
+<span class=3DSpellE>actShowHpGauge</span> Displays the<br>
+&#12288;foot HP gauge.<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Map creation<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>The blank area immediately after creating a new map is impassa=
+ble,
+so<br>
+first fill it with transparent and passable tiles.<br>
+<br>
+Loop maps are not supported in both horizontal and vertical directions.<o:p=
+></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Ladder<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>It is assumed that the top of the ladder is placed on the floo=
+r.<br>
+Ladder that overlaps the floor should not be allowed to pass only below in =
+the
+4-way setting.<br>
+</span><span style=3D'mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id=
+=3D"_x0000_t75"
+ coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@=
+5l@4@11@9@11@9@5xe"
+ filled=3D"f" stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"Picture_x0020_2" o:spid=3D"_x0000_i1025" type=
+=3D"#_x0000_t75"
+ alt=3D"https://hikimoki.sakura.ne.jp/plugin/screen_shot/TMJumpAction_ladde=
+r.jpg"
+ style=3D'width:273pt;height:141.75pt;visibility:visible;mso-wrap-style:squ=
+are'>
+ <v:imagedata src=3D"index_files/image001.jpg" o:title=3D"TMJumpAction_ladd=
+er"/>
+</v:shape><![endif]--><![if !vml]><img width=3D364 height=3D189
+src=3D"index_files/image001.jpg"
+alt=3D"https://hikimoki.sakura.ne.jp/plugin/screen_shot/TMJumpAction_ladder=
+.jpg"
+v:shapes=3D"Picture_x0020_2"><![endif]></span><span style=3D'font-size:12.0=
+pt;
+font-family:"Meiryo",sans-serif;color:black'><o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>lift<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'><br>
+Events that have a&nbsp;&lt;lift&gt; tag&nbsp;written in the&nbsp;memo fiel=
+d or
+the annotation command at the top of the execution content&nbsp;are treated=
+ as
+lifts.<br>
+<br>
+The lift does not stop when it comes into contact with another character, it
+continues pushing by pushing your opponent.<br>
+Characters on the lift will move with the lift.<br>
+</span><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:red'>If you get caught between the lift and the wall, you may be move=
+d to
+an unexpected location.</span><span style=3D'font-size:12.0pt;font-family:"=
+Meiryo",sans-serif;
+color:black'><br>
+<br>
+The player's dash can quickly change the route of the lift,<br>
+so if you want to prevent this, make the lift heavier than the player.<o:p>=
+</o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Judgment of contact with terrain<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'>The plug-in<br>
+adjusts the&nbsp;terrain so that&nbsp;it&nbsp;looks down slightly from the =
+top,
+rather than from the side,&nbsp;so that<br>
+players and events land&nbsp;more floating than the impassable tiles.<br>
+<br>
+The amount of floating can be set with the&nbsp;plug-in parameter &quot;<sp=
+an
+class=3DSpellE>tileMarginTop</span>&quot;.<br>
+Change this value to 0&nbsp;if you want to get closer to the viewpoint from=
+ the
+side.<o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Pad button arrangement<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt;line-height:normal;backg=
+round:
+white'><span style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;
+color:black'><br>
+If you want to register the&nbsp;key added with the&nbsp;<a
+href=3D"https://hikimoki.sakura.ne.jp/plugin/plugin_map.html#TMCommonEventK=
+ey">common
+event key (TMCommonEventKey.js)</a>&nbsp;to the&nbsp;<a
+href=3D"https://hikimoki.sakura.ne.jp/plugin/plugin_map.html#TMCommonEventK=
+ey">gamepad</a>&nbsp;,
+set as follows.<br>
+&#12288;If you want to add a D key-add<br>
+&#12288;<span class=3DSpellE>commonKeyD</span> to the<br>
+&#12288;plug-in parameter &quot;<span class=3DSpellE>padButtons</span>&quot=
+;-Add
+a button name to the plug-in parameter &quot;<span class=3DSpellE>padButton=
+Names</span>&quot;<br>
+If you want to add another key, change the D part of <span class=3DSpellE>c=
+ommonKeyD</span>
+.&nbsp;If you want to register&nbsp;a call key that is added using an<br>
+<br>
+<a href=3D"https://hikimoki.sakura.ne.jp/plugin/plugin_item.html#TMItemShor=
+tCut">item
+shortcut (TMItemShortCut.js)</a>&nbsp;to the&nbsp;<a
+href=3D"https://hikimoki.sakura.ne.jp/plugin/plugin_item.html#TMItemShortCu=
+t">gamepad</a>,
+set as follows.<br>
+&#12288;• The TMItemShortCut.js side of the call key to set the key that do=
+es
+not overlap with jump action to add a <span class=3DSpellE>shortCut</span>
+to-plug-in parameters &quot;<span class=3DSpellE>padButtons</span>&quot; to=
+ add
+the name of the button on the plug-in parameters &quot;<span class=3DSpellE=
+>padButtonNames</span>&quot;
+call key settings to <span class=3DSpellE>padButtons</span> Regardless, ple=
+ase
+add <span class=3DSpellE>shortCut</span>.<br style=3D'mso-special-character=
+:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></p>
+
+<div style=3D'mso-element:para-border-div;border:solid #F04868 1.5pt;paddin=
+g:
+2.0pt 12.0pt 2.0pt 12.0pt;background:#FFB8B8'>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;mso-outline-level:1;background:#FFB8B8;border:none;mso-border-alt:so=
+lid #F04868 1.5pt;
+padding:0in;mso-padding-alt:2.0pt 12.0pt 2.0pt 12.0pt'><b><span
+style=3D'font-size:24.0pt;font-family:"Meiryo",sans-serif;color:black;mso-f=
+ont-kerning:
+18.0pt'>Other specifications<o:p></o:p></span></b></p>
+
+</div>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;background:white'><span style=3D'font-size:12.0pt;font-family:"Meiry=
+o",sans-serif;
+color:black'>Formula for calculating the stepping speed:<br>
+Number of frames in one frame of foot animation =3D (A-Moving speed-C) * B<=
+br>
+A =3D value of plug-in parameter &quot;<span class=3DSpellE>stepAnimeConsta=
+ntA&quot;</span><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;background:white'><span class=3DSpellE><span style=3D'font-size:12.0=
+pt;
+font-family:"Meiryo",sans-serif;color:black'>B</span></span><span
+style=3D'font-size:12.0pt;font-family:"Meiryo",sans-serif;color:black'> =3D=
+ value
+of plug-in parameter &quot;<span class=3DSpellE>stepAnimeConstantB</span>&q=
+uot;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal;background:white'><span style=3D'font-size:12.0pt;font-family:"Meiry=
+o",sans-serif;
+color:black'>C =3D 0.01 if dashed, 0 if not<br>
+Please adjust according to the maximum moving speed in the game.<o:p></o:p>=
+</span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index_files/preview.wmf
+Content-Transfer-Encoding: base64
+Content-Type: image/x-wmf
+
+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
+////AgcAAAD8AgAA////AgAABAAAAC0BBAAMAAAAQAkhAPAAAAAAAAAAHwAKA4UAEAAEAAAALQEC
+AAUAAAAJAgAAAAIFAAAAAQL///8CBAAAAPABBAAEAAAAAgEBAAQAAAAtAQEABAAAAC0BAQAEAAAA
+LQEBAAUAAAAJAgAAAAIFAAAAFAKZABIAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgqZABIA
+AQAEAAAAAAAwAyAEIAAMAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIA
+AAACBQAAAAkCAAAAAgUAAAABAv///wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAAAEAJIQDwAAAA
+AAAAAB8ACgOkABAABAAAAC0BAgAFAAAACQIAAAACBQAAAAEC////AgQAAADwAQQABAAAAAIBAQAE
+AAAALQEBAAQAAAAtAQEABAAAAC0BAQAFAAAACQIAAAACBQAAABQCuAASABwAAAD7AvD/AAAAAAAA
+kAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEE
+AAQAAAAuARkAiQAAADIKuAASAFQABAAAAAAAMAMgBElmIFRoZSBUb3RhbCBWYWx1ZSBPZiBUaGUg
+U2hvdF93YXkgVGFncyBPZiBUaGUgT3BlcmF0aW9uIENoYXJhY3RlciBJcyAwIE9yIExlc3MsIFlv
+dQYABQAGAAoACgAJAAYACgAKAAYACQAEAAYACwAJAAQACgAJAAUADAAFAAYACgAKAAkABgAKAAoA
+CgAGAAoADQAJAAkABgAKAAkACgAIAAUADAAFAAYACgAKAAkABgAMAAoACQAHAAkABgAEAAoACgAF
+AAsACgAJAAcACQAIAAYACQAHAAYABgAIAAUACgAGAAwABwAFAAkACQAIAAgABgAFAAoACgAKAAQA
+AAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCuAC+AhwAAAD7
+AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0B
+BAAEAAAALQEEAAQAAAAuARkADQAAADIKuAC+AgEABAAAAAAAMAMgBCAADAAEAAAALgEYAAQAAAAt
+AQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAJAgAAAAIFAAAAAQL///8CBwAAAPwC
+AAD///8CAAAEAAAALQEEAAwAAABACSEA8AAAAAAAAAAgAAoDwwAQAAQAAAAtAQIABQAAAAkCAAAA
+AgUAAAABAv///wIEAAAA8AEEAAQAAAACAQEABAAAAC0BAQAEAAAALQEBAAQAAAAtAQEABQAAAAkC
+AAAAAgUAAAAUAtcAEgAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZACwAAAAyCtcAEgAWAAQAAAAAADAD
+IARDYW4gTm90IEZpcmUgQSBCdWxsZXQuCwAJAAoABQAMAAoABgAFAAkABAAHAAkABgALAAUACwAK
+AAQABAAJAAYABgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUA
+AAAUAtcAuwAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAA0AAAAyCtcAuwABAAQAAAAAADADIAQgAAwA
+BAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAACQIAAAACBQAA
+AAEC////AgcAAAD8AgAA////AgAABAAAAC0BBAAMAAAAQAkhAPAAAAAAAAAAHwAKA+MAEAAEAAAA
+LQECAAUAAAAJAgAAAAIFAAAAAQL///8CBAAAAPABBAAEAAAAAgEBAAQAAAAtAQEABAAAAC0BAQAE
+AAAALQEBAAUAAAAJAgAAAAIFAAAAFAL3ABIAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlv
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgr3
+ABIAAQAEAAAAAAAwAyAEIAAMAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAA
+CQIAAAACBQAAAAkCAAAAAgUAAAABAv///wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAAAEAJIQDw
+AAAAAAAAAB8ACgMCARAABAAAAC0BAgAFAAAACQIAAAACBQAAAAEC////AgQAAADwAQQABAAAAAIB
+AQAFAAAACQIAAAACBQAAABQCFgESABwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkAXwAAADIKFgESADgA
+BAAAAAAAMAMgBElmIFRoZSBQbHVnaW4gUGFyYW1ldGVyICJXZWFwb25TcHJpdGUiIElzIE9OIChU
+cnVlKSwgVGhlBgAFAAYACgAKAAkABgAKAAQACgAKAAQACgAFAAoACQAHAAkADwAJAAYACQAHAAUA
+BwAQAAkACQAKAAoACgAKAAoABwAEAAYACQAHAAYABgAIAAYADAAMAAUABwAKAAcACgAJAAcABgAF
+AAoACgAJAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQC
+FgHeARwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkADQAAADIKFgHeAQEABAAAAAAAMAMgBCAABgAEAAAA
+LgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAhYB5AEcAAAA+wLw
+/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQA
+BAAAAC0BBAAEAAAALgEZACsAAAAyChYB5AEVAAQAAAAAADADIARXZWFwb24gSW1hZ2UgV2lsbCBC
+ZSAAEAAJAAkACgAKAAoABQAGAA8ACQAKAAkABgAQAAQABAAEAAYACwAJAAYABAAAAC4BGAAEAAAA
+LQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAACQIAAAACBQAAAAEC////AgcAAAD8
+AgAA////AgAABAAAAC0BBAAMAAAAQAkhAPAAAAAAAAAAHwAKAyEBEAAEAAAALQECAAUAAAAJAgAA
+AAIFAAAAAQL///8CBAAAAPABBAAEAAAAAgEBAAQAAAAtAQEABAAAAC0BAQAEAAAALQEBAAUAAAAJ
+AgAAAAIFAAAAFAI1ARIAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQAZAAAAMgo1ARIACQAEAAAAAAAw
+AyAERGlzcGxheWVkAAwABAAIAAoABAAJAAkACQAKAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUA
+AAAUAgAAAAAFAAAACQIAAAACBQAAABQCNQFdABwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5
+bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkADQAAADIK
+NQFdAAEABAAAAAAAMAMgBCAABgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAA
+AAkCAAAAAgUAAAAUAjUBYwAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZACAAAAAyCjUBYwAOAAQAAAAA
+ADADIARXaGVuIEF0dGFja2luZxAACgAJAAoABQALAAYABgAJAAgACQAEAAoACgAEAAAALgEYAAQA
+AAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAjUB3gAcAAAA+wLw/wAAAAAA
+AJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0B
+BAAEAAAALgEZAA0AAAAyCjUB3gABAAQAAAAAADADIAQuAAYABAAAAC4BGAAEAAAALQEBAAQAAADw
+AQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAI1AeQAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAi
+TWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQAN
+AAAAMgo1AeQAAQAEAAAAAAAwAyAEIAAMAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAA
+AAAFAAAACQIAAAACBQAAAAkCAAAAAgUAAAABAv///wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAA
+AEAJIQDwAAAAAAAAAB8ACgNAARAABAAAAC0BAgAFAAAACQIAAAACBQAAAAEC////AgQAAADwAQQA
+BAAAAAIBAQAFAAAACQIAAAACBQAAABQCVAESABwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5
+bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkAMQAAADIK
+VAESABkABAAAAAAAMAMgBEFsb25nIFdpdGggVGhpcyBGdW5jdGlvbiwACwAEAAoACgAKAAQAEAAE
+AAYACgAGAAoACgAEAAgABgAJAAoACgAIAAYABAAKAAoABgAEAAAALgEYAAQAAAAtAQEABAAAAPAB
+BAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAlQB3AAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJN
+ZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAA0A
+AAAyClQB3AABAAQAAAAAADADIAQgAAQABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAA
+AAUAAAAJAgAAAAIFAAAAFAJUAeAAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQBcAAAAMgpUAeAANgAE
+AAAAAAAwAyAESXQgSXMgQWxzbyBQb3NzaWJsZSBUbyBFeHByZXNzIEEgU2hvcnQgUmFuZ2UgQXR0
+YWNrIEJ5BgAGAAYABgAIAAYACwAEAAgACgAFAAoACgAIAAgABAAKAAQACQAEAAoACgAFAAoACQAK
+AAcACQAIAAgABQALAAUACgAKAAoABwAGAAUACwAJAAoACgAJAAYACwAGAAYACQAIAAkABQALAAkA
+BAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAJUAYsCHAAA
+APsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA
+LQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgpUAYsCAQAEAAAAAAAwAyAEIAAGAAQAAAAuARgABAAA
+AC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCVAGRAhwAAAD7AvD/AAAAAAAA
+kAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEE
+AAQAAAAuARkAIgAAADIKVAGRAg8ABAAAAAAAMAMgBFNob3J0ZW5pbmcgVGhlIAAKAAoACgAHAAYA
+CQAKAAQACgAKAAQACgAKAAkABQAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAA
+AAkCAAAAAgUAAAAJAgAAAAIFAAAAAQL///8CBwAAAPwCAAD///8CAAAEAAAALQEEAAwAAABACSEA
+8AAAAAAAAAAhAAoDXwEQAAQAAAAtAQIABQAAAAkCAAAAAgUAAAABAv///wIEAAAA8AEEAAQAAAAC
+AQEABQAAAAkCAAAAAgUAAAAUAnQBEgAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAF4AAAAyCnQBEgA3
+AAQAAAAAADADIAREaXN0YW5jZSBPZiBUaGUgQnVsbGV0IEFuZCBBcHBseWluZyBBIFRyYW5zcGFy
+ZW50IEJ1bGxlAAwABAAIAAYACQAKAAgACQAGAAwABQAGAAoACgAJAAYACwAKAAQABAAJAAYABQAL
+AAoACgAFAAsACgAKAAQACQAEAAoACgAFAAsABQAKAAcACQAKAAgACgAJAAcACQAKAAYABQALAAoA
+BAAEAAkABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAJ0
+AcwBHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQAWAAAAMgp0AcwBBwAEAAAAAAAwAyAEdCBJbWFnZQAG
+AAYABgAPAAkACgAJAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAAC
+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
+AAIFAAAAAQL/uLgCBAAAAPABBQAHAAAA/AIAAPBIaAIAAAQAAAAtAQUADAAAAEAJIQDwAAAAAAAA
+AEEAAgCSASoDBAAAAC0BBAAFAAAACQIAAAACBQAAAAEC/7i4AgQAAADwAQUABAAAAC0BAgAFAAAA
+CQIAAAACBQAAAAEC////AgQAAADwAQQABAAAACcB//8EAAAAJwH//wQAAAAtAQEABAAAAC0BAQAE
+AAAALQEBAAUAAAAJAgAAAAIFAAAAAQL///8CBwAAAPwCAAD///8CAAAEAAAALQEEAAwAAABACSEA
+8AAAAAAAAAAgAAoD1gEQAAQAAAAtAQIABQAAAAkCAAAAAgUAAAABAv///wIEAAAA8AEEAAQAAAAC
+AQEABAAAAC0BAQAEAAAALQEBAAQAAAAtAQEABQAAAAkCAAAAAgUAAAAUAuoBEgAcAAAA+wLw/wAA
+AAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAA
+AC0BBAAEAAAALgEZAIwAAAAyCuoBEgBWAAQAAAAAADADIARJZiB0aGUgdG90YWwgdmFsdWUgb2Yg
+dGhlIGd1YXJkX3NwZWVkIHRhZyBvZiB0aGUgb3BlcmF0aW9uIGNoYXJhY3RlciBpcyAxIG9yIG1v
+cmUsIHlvdQYABQAGAAYACgAJAAYABgAKAAYACQAEAAUACQAJAAQACgAJAAYACgAFAAYABgAKAAkA
+BQAKAAoACQAHAAoACgAIAAoACQAJAAoABQAGAAkACgAFAAoABQAGAAYACgAJAAUACgAKAAkABwAJ
+AAYABAAKAAoABQAIAAoACQAHAAkACAAGAAkABwAFAAQACAAGAAoABQAKAAcABQAPAAoABwAJAAYA
+BAAJAAoACgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAU
+AuoBrQIcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAA0AAAAyCuoBrQIBAAQAAAAAADADIAQgAAwABAAA
+AC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIDAAAAHgADAAAAHgAHAAAA
+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
+ZS4KAAQACgAKAAkABwAFAAYACgAJAAUABgAKAAYACQAEAAYACQAJAAQACgAJAAYABQAGAAoACQAG
+AAgACgAKAAcABgAJAAcABAAGAAoACQAGAAcACQAKAAoABAAHAAkACgAEAAQACgAKAAoABgAGAAYA
+BAAPAAkABgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAU
+AkgC/gEcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAA0AAAAyCkgC/gEBAAQAAAAAADADIAQgAAUABAAA
+AC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAJIAgMCHAAAAPsC
+8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEE
+AAQAAAAtAQQABAAAAC4BGQAOAAAAMgpIAgMCAgAEAAAAAAAwAyAESWYGAAUABAAAAC4BGAAEAAAA
+LQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAJIAg4CHAAAAPsC8P8AAAAAAACQ
+AQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQA
+BAAAAC4BGQANAAAAMgpIAg4CAQAEAAAAAAAwAyAEIAAHAAQAAAAuARgABAAAAC0BAQAEAAAA8AEE
+AAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCSAIVAhwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1l
+aXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkAOwAA
+ADIKSAIVAiAABAAAAAAAMAMgBHRoZSB0b3RhbCB2YWx1ZSBpcyAwIG9yIGxlc3MsIG5vBgAKAAkA
+BQAGAAoABgAJAAQABgAJAAkABAAKAAkABgAEAAgABQAKAAUACgAHAAUABAAJAAgACAAGAAUACgAK
+AAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCSAL9AhwA
+AAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA
+AC0BBAAEAAAALQEEAAQAAAAuARkADQAAADIKSAL9AgEABAAAAAAAMAMgBCAABQAEAAAALgEYAAQA
+AAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAJAgAAAAIFAAAAAQL///8CBwAA
+APwCAAD///8CAAAEAAAALQEEAAwAAABACSEA8AAAAAAAAAAfAAoDUwIQAAQAAAAtAQIABQAAAAkC
+AAAAAgUAAAABAv///wIEAAAA8AEEAAQAAAACAQEABQAAAAkCAAAAAgUAAAAUAmcCEgAcAAAA+wLw
+/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQA
+BAAAAC0BBAAEAAAALgEZAD4AAAAyCmcCEgAiAAQAAAAAADADIARtYXR0ZXIgaG93IGxvbmcgeW91
+IGtlZXAgcHJlc3NpbmcgDwAJAAYABgAJAAcABgAKAAoADQAFAAQACgAKAAoABQAJAAoACgAFAAkA
+CQAJAAoABQAKAAcACQAIAAgABAAKAAoABQAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIA
+AAAABQAAAAkCAAAAAg4AAAAyCmcCLAECAAQAAAAAADADIASBqxAAAAAFAAAACQIAAAACBQAAABQC
+ZwI8ARwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkARwAAADIKZwI8ASgABAAAAAAAMAMgBCwgbm8gZGVm
+ZW5zaXZlIGFjdGlvbiB3aWxsIGJlIHBlcmZvcm1lZC4GAAUACgAKAAUACgAJAAUACQAKAAgABAAJ
+AAkABgAJAAgABgAEAAoACgAFAA0ABAAEAAQABgAKAAkABgAKAAkABwAFAAoABwAPAAkACgAGAAQA
+AAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCZwJzAhwAAAD7
+AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0B
+BAAEAAAALQEEAAQAAAAuARkADQAAADIKZwJzAgEABAAAAAAAMAMgBCAABAAEAAAALgEYAAQAAAAt
+AQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAmcCdwIcAAAA+wLw/wAAAAAAAJAB
+AAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAE
+AAAALgEZABMAAAAyCmcCdwIFAAQAAAAAADADIARXaGlsZQAQAAoABAAEAAkABAAAAC4BGAAEAAAA
+LQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFAJnAqICHAAAAPsC8P8AAAAAAACQ
+AQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQA
+BAAAAC4BGQANAAAAMgpnAqICAQAEAAAAAAAwAyAEIAAGAAQAAAAuARgABAAAAC0BAQAEAAAA8AEE
+AAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCZwKoAhwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1l
+aXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkAHwAA
+ADIKZwKoAg0ABAAAAAAAMAMgBHBlcmZvcm1pbmcgYSAACgAJAAcABQAKAAcADwAEAAoACgAEAAkA
+BgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAJAgAAAAIF
+AAAAAQL///8CBwAAAPwCAAD///8CAAAEAAAALQEEAAwAAABACSEA8AAAAAAAAAAgAAoDcgIQAAQA
+AAAtAQIABQAAAAkCAAAAAgUAAAABAv///wIEAAAA8AEEAAQAAAACAQEABAAAAC0BAQAEAAAALQEB
+AAQAAAAtAQEABQAAAAkCAAAAAgUAAAAUAoYCEgAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWly
+eW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAHwAAAAy
+CoYCEgBLAAQAAAAAADADIARkZWZlbnNpdmUgYWN0aW9uLCBhIGRlZmVuc2l2ZSBzdGF0ZSBpcyBh
+ZGRlZCBhbmQgbW92ZW1lbnQgc3BlZWQgaXMgcmVkdWNlZC4ACgAJAAUACQAKAAgABAAJAAkABgAJ
+AAgABgAEAAoACgAGAAUACQAGAAoACQAFAAkACgAIAAQACQAJAAYACAAGAAkABgAJAAYABAAIAAYA
+CQAKAAoACQAKAAUACQAKAAoABQAPAAoACQAJAA8ACQAKAAYABgAIAAoACQAJAAoABgAEAAgABQAH
+AAkACgAKAAgACQAKAAYABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAA
+AAIFAAAAFAKGAnECHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgqGAnECAQAEAAAAAAAwAyAE
+IAAMAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAAAkCAAAA
+AgUAAAABAv///wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAAAEAJIQDwAAAAAAAAAB8ACgOSAhAA
+BAAAAC0BAgAFAAAACQIAAAACBQAAAAEC////AgQAAADwAQQABAAAAAIBAQAEAAAALQEBAAQAAAAt
+AQEABAAAAC0BAQAFAAAACQIAAAACBQAAABQCpgISABwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1l
+aXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkADQAA
+ADIKpgISAAEABAAAAAAAMAMgBCAADAAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAA
+BQAAAAkCAAAAAgUAAAAJAgAAAAIFAAAAAQL///8CBwAAAPwCAAD///8CAAAEAAAALQEEAAwAAABA
+CSEA8AAAAAAAAAAfAAoDsQIQAAQAAAAtAQIABQAAAAkCAAAAAgUAAAABAv///wIEAAAA8AEEAAQA
+AAACAQEABQAAAAkCAAAAAgUAAAAUAsUCEgAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8A
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAB0AAAAyCsUC
+EgAMAAQAAAAAADADIARJZiB5b3Ugc3RvcCAGAAUABgAJAAoACgAFAAgABgAKAAoABQAEAAAALgEY
+AAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAsUCbAAcAAAA+wLw/wAA
+AAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAA
+AC0BBAAEAAAALgEZABwAAAAyCsUCbAALAAQAAAAAADADIARob2xkaW5nIGRvdwAKAAoABAAKAAQA
+CgAKAAQACgAKAA0ABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIF
+AAAAFALFAssAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQAOAAAAMgrFAssAAgAEAAAAAAAwAyAEbiAK
+AAUABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIOAAAAMgrFAtoA
+AgAEAAAAAAAwAyAEgasQAAAABQAAAAkCAAAAAgUAAAAUAsUC6gAcAAAA+wLw/wAAAAAAAJABAAAA
+AARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAA
+LgEZAE8AAAAyCsUC6gAtAAQAAAAAADADIAQsIHRoZSBkZWZlbnNpdmUgYWN0aW9uIHdpbGwgYWxz
+byBiZSBjYW5jZWxlZC4ABgAFAAYACgAJAAYACgAJAAUACQAKAAgABAAJAAkABgAJAAgABgAEAAoA
+CgAFAA0ABAAEAAQABgAJAAQACAAKAAYACgAJAAUACAAJAAoACAAJAAQACQAKAAYABAAAAC4BGAAE
+AAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFALFAjwCHAAAAPsC8P8AAAAA
+AACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAt
+AQQABAAAAC4BGQANAAAAMgrFAjwCAQAEAAAAAAAwAyAEIAAGAAQAAAAuARgABAAAAC0BAQAEAAAA
+8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCxQJCAhwAAAD7AvD/AAAAAAAAkAEAAAAABEAA
+Ik1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkA
+EAAAADIKxQJCAgMABAAAAAAAMAMgBFRoZQAKAAoACQAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAF
+AAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAsUCXwIcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWly
+eW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAA0AAAAy
+CsUCXwIBAAQAAAAAADADIAQgAAYABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUA
+AAAJAgAAAAIFAAAAFALFAmUCHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQAiAAAAMgrFAmUCDwAEAAAA
+AAAwAyAEc3RhdGUgdG8gYmUgYWRkAAgABgAJAAYACQAGAAYACgAFAAoACQAFAAkACgAKAAQAAAAu
+ARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQCxQLbAhwAAAD7AvD/
+AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0BBAAE
+AAAALQEEAAQAAAAuARkAFgAAADIKxQLbAgcABAAAAAAAMAMgBGVkIGFuZCAACQAKAAUACQAKAAoA
+BQAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAJAgAAAAIF
+AAAAAQL///8CBwAAAPwCAAD///8CAAAEAAAALQEEAAwAAABACSEA8AAAAAAAAAAfAAoD0AIQAAQA
+AAAtAQIABQAAAAkCAAAAAgUAAAABAv///wIEAAAA8AEEAAQAAAACAQEABQAAAAkCAAAAAgUAAAAU
+AuQCEgAcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAGUAAAAyCuQCEgA8AAQAAAAAADADIAR0aGUgY29y
+cmVjdGlvbiByYXRlIG9mIG1vdmVtZW50IHNwZWVkIGNhbiBiZSBjaGFuZ2VkIGJ5IHBsdWcGAAoA
+CQAGAAgACgAHAAcACQAIAAYABAAKAAoABAAHAAkABgAJAAUACgAFAAYADwAKAAkACQAPAAkACgAG
+AAYACAAKAAkACQAKAAUACAAJAAoABgAKAAkABQAIAAoACQAKAAoACQAKAAYACgAJAAUACgAEAAoA
+CgAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAuQCBAIc
+AAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
+AAAtAQQABAAAAC0BBAAEAAAALgEZAA0AAAAyCuQCBAIBAAQAAAAAADADIAQtAAcABAAAAC4BGAAE
+AAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFALkAgsCHAAAAPsC8P8AAAAA
+AACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAt
+AQQABAAAAC4BGQAgAAAAMgrkAgsCDgAEAAAAAAAwAyAEaW4gcGFyYW1ldGVycy4EAAoABQAKAAkA
+BwAJAA8ACQAGAAkABwAIAAYABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJ
+AgAAAAIFAAAAFALkAn0CHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgrkAn0CAQAEAAAAAAAw
+AyAEIAAFAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQC
+5AKCAhwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkADgAAADIK5AKCAgIABAAAAAAAMAMgBElmBgAFAAQA
+AAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAABQC5AKNAhwAAAD7
+AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC0B
+BAAEAAAALQEEAAQAAAAuARkADQAAADIK5AKNAgEABAAAAAAAMAMgBCAABwAEAAAALgEYAAQAAAAt
+AQEABAAAAPABBAAFAAAAFAIAAAAABQAAAAkCAAAAAgUAAAAUAuQClAIcAAAA+wLw/wAAAAAAAJAB
+AAAAAARAACJNZWlyeW8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAE
+AAAALgEZABwAAAAyCuQClAILAAQAAAAAADADIAR0aGUgZGVmZW5zZQAGAAoACQAFAAoACQAFAAkA
+CgAIAAkABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAAAAUAAAAJAgAAAAIFAAAAFALk
+Au4CHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgrkAu4CAQAEAAAAAAAwAyAEIAAGAAQAAAAu
+ARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAACBQAAAAkCAAAAAgUAAAABAv//
+/wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAAAEAJIQDwAAAAAAAAAB8ACgPvAhAABAAAAC0BAgAF
+AAAACQIAAAACBQAAAAEC////AgQAAADwAQQABAAAAAIBAQAFAAAACQIAAAACBQAAABQCAwMSABwA
+AAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA
+AC0BBAAEAAAALQEEAAQAAAAuARkAPQAAADIKAwMSACEABAAAAAAAMAMgBHN0YXRlIGlzIHNldCB0
+byBhdXRvbWF0aWMgcmVsZWFzZQAIAAYACQAGAAkABgAEAAgABgAIAAkABgAFAAYACgAFAAkACgAG
+AAoADwAJAAYABAAIAAYABwAJAAQACQAJAAgACQAEAAAALgEYAAQAAAAtAQEABAAAAPABBAAFAAAA
+FAIAAAAABQAAAAkCAAAAAgUAAAAUAgMDCwEcAAAA+wLw/wAAAAAAAJABAAAAAARAACJNZWlyeW8A
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAtAQQABAAAAC0BBAAEAAAALgEZAEkAAAAyCgMD
+CwEpAAQAAAAAADADIAQsIHRoZSBzdGF0ZSB3aWxsIGJlIHJlbGVhc2VkIHBlcmlvZGljYWxseQAG
+AAYABgAKAAkABgAIAAYACQAGAAkABgANAAQABAAEAAYACgAJAAUABwAJAAQACQAJAAgACQAKAAYA
+CgAJAAcABAAKAAoABAAIAAkABAAEAAkABAAAAC4BGAAEAAAALQEBAAQAAADwAQQABQAAABQCAAAA
+AAUAAAAJAgAAAAIFAAAAFAIDAzgCHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlvAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALQEEAAQAAAAtAQQABAAAAC4BGQANAAAAMgoDAzgCAQAE
+AAAAAAAwAyAEIAAFAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAACQIAAAAC
+BQAAABQCAwM9AhwAAAD7AvD/AAAAAAAAkAEAAAAABEAAIk1laXJ5bwAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAABAAAAC0BBAAEAAAALQEEAAQAAAAuARkAMgAAADIKAwM9AhoABAAAAAAAMAMgBGV2
+ZW4gaWYgeW91IGtlZXAgcHJlc3NpbmcgCQAJAAkACgAGAAQABQAGAAkACgAKAAUACQAJAAkACgAF
+AAoABwAJAAgACAAEAAoACgAEAAQAAAAuARgABAAAAC0BAQAEAAAA8AEEAAUAAAAUAgAAAAAFAAAA
+CQIAAAACBQAAAAkCAAAAAgUAAAABAv///wIHAAAA/AIAAP///wIAAAQAAAAtAQQADAAAAEAJIQDw
+AAAAAAAAACAACgMOAxAABAAAAC0BAgAFAAAACQIAAAACBQAAAAEC////AgQAAADwAQQABAAAAAIB
+AQAEAAAALQEBAAQAAAAtAQEABAAAAC0BAQAFAAAACQIAAAACDgAAADIKIgMSAAIABAAAAAAAMAMg
+BIGrEAAAAAUAAAAJAgAAAAIFAAAAFAIiAyIAHAAAAPsC8P8AAAAAAACQAQAAAAAEQAAiTWVpcnlv
+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
+
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+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
+cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
+
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index_files/image001.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAgEASABIAAD//gAmUGFpbnQgVG9vbCAtU0FJLSBKUEVHIEVuY29kZXIgdjEu
+MDAA/9sAhAAGBAQEBAQGBgYGCAgICAgKCgoKCgoNDQ0NDQ0NEBAQEBAQEBATExMTExMTFxcXFxcX
+GxsbGxsfHx8fJCQkKSkrARENDQ0NDRMTExMZGRkZGSEhISEhISoqKioqKiozMzMzMzMzMz4+Pj4+
+Pj5KSkpKSkpXV1dXV2ZmZmZ1dXWFhYv/wAARCAC9AWwDAREAAhEBAxEB/8QBogAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoLEAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGR
+oQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdo
+aWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU
+1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+foBAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKCxEA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl
+8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImK
+kpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP0
+9fb3+Pn6/9oADAMBAAIRAxEAPwDsrQ2ct7C1zny0YByo4z2ya8elFxvpozLDQU6l30V/mWdb1qWX
+Uo7PRkiaS5RopC44jQcbvwrVJHdZpHmHxs8IaHodjYTWs7SXAuYUl3Mx3ep64rWjJuTXkTU1ptnJ
+yJlAVOPSiLs9TjALuADHtRez0QFzQlWPW9PySc3UPH/AxSm3KnLToS9Ez2BgJjuG0sAwx71xJ8mm
+qTsZ7iJPC7GMKM4wAR1xTcJxSlcEzO8QtGNOcAkjKgj0+YVpQUm7sFa5ozwl4lZDjHQA5rOE0pNS
+W4NaCiPeqiRu2D2/ClzcrbigGCNICCXJ3DoOmKpydSOy0Foh7ATHcNpYBhj3qU+TTVJ2HuIk8LsY
+wozjABHXFNwnFKVwTM7xC0Y05wCSMqCPT5hWlBSbuwVrmjPCXiVkOMdADms4TSk1Jbg1oKI96qJG
+7YPb8KXNytuKAYI0gIJcncOg6YqnJ1I7LQWiHsBMdw2lgGGPepT5NNUnYe4iTwuxjCjOMAEdcU3C
+cUpXBMxPGrKPDd+EJP7hhj0rXDKTmmyqdvaR9TM1bX9Uj8KRxSENK5ljdXXcyYOD3/KtlFOZ6b2J
+fDWhadrN5oTfbdzIztLbNnbmMMy47Z6fhTbkubQOiM7xctx4X1+/cRKscw3IAMD37dacPfik+gN2
+JPh9pV3rWp3cl8hVhAGgZ0IyCeSM/hRO1kkK7Me/tYNJ1fVGuJySsjIoJAUO2MhsU1dxiBx8utPo
+sNxaFJIQw2soyBkdDWqjzWZF7HYfCTxFpUcuqz6jKo3wjYpHYelRVi7Kw4u5r+DW0i5m1SERyyXj
+zTFOeNhxhgewzUTUrLtYpHLXd7N4H1GWwBYiVg6vkZ5yuOtWkqkbivynVfD7SrvWtTu5L5CrCANA
+zoRkE8kZ/ConaySHdmPf2sGk6vqjXE5JWRkUEgKHbGQ2Kau4xA4+XWn0WG4tCkkIYbWUZAyOhrVR
+5rMi9jsPhJ4i0qOXVZ9RlUb4RsUjsPSoqxdlYcXc1/BraRczapCI5ZLx5pinPGw4wwPYZqJqVl2s
+Ujlru9m8D6jLYAsRKwdXyM85XHWrSVSNxX5Tqvh9pV3rWp3cl8hVhAGgZ0IyCeSM/hUTtZJDuzHv
+7WDSdX1RrickrIyKCQFDtjIbFNXcYgcfLrT6LDcWhSSEMNrKMgZHQ1qo81mRex2Hwk8RaVHLqs+o
+yqN8I2KR2HpUVYuysOLua/g1tIuZtUhEcsl480xTnjYcYYHsM1E1Ky7WKRy13ezeB9RlsAWIlYOr
+5GecrjrVpKpG4r8p1Xw+0q71rU7uS+QqwgDQM6EZBPJGfwqJ2skh3Zj39rBpOr6o1xOSVkZFBICh
+2xkNimruMQOPl1p9FhuLQpJCGG1lGQMjoa1UeazIvYr2upLdxmWWdlJY4A9KGrAnc+i7fXJDJLos
+cSSblA8zC42r/e57ZrktpcvlitUjjfF0lt4GuYLixvZZpQjLIzsCCD24xxkda0gvaaML2PNvFXiO
+51hkDSMwM0R5P+2K1jBRRFSV4v0LTFkXkVCSelzjGszEK2OeuaaSV1cC/oTKdZsd3J+0w/8AoQqK
+iag7dmJ7P0PW28y2JjB+VhwT0x1rmXLUXM91vYz1BWiaBhwWycUmpKot0hdCDWfKj0mTDdCh6/7Q
+qYc0p7FKysWZHlhQkrjPX8qcYxm7Jk6oY8jsiOEyeu+qjFRcouWnYB6SI4bzOW2jH5VMoyVuVaB6
+jW8y2JjB+VhwT0x1qly1FzPdb2HqCtE0DDgtk4pNSVRbpC6EGs+VHpMmG6FD1/2hUw5pT2KVlYsy
+PLChJXGev5U4xjN2TJ1Qx5HZEcJk9d9VGKi5RctOwD0kRw3mcttGPyqZRkrcq0D1Gt5lsTGD8rDg
+npjrVLlqLme63sPUFaJoGHBbJxSakqi3SF0M7xcYovC2oYbpCx680UeZ1o6dS6dlOPqYNzDYW11p
+92bvzIZJxLIjjB3p8zA8966k201Y9Rm1rlrb22pWGr6VOrFuNka7mPH3gAM5HQ5/Gpi9GmB59468
+TaxrmpSR3B2hFbCbe449u9a04pK5En0IdH8bazpjQTJOxdIvK+i575zmm4RYX0Oi+HWjWPiu71HV
+L2Rj5bB+QMb8t8+TnkYqajcUkgXcx/G0th4oupIwhaRVRId6Hf1OOR1p07wQSsznL3TZtCufsmwC
+RflbHU8ds1afMritY6DwR4xbQBfSbYy00SAs33hjcPl+vFTOHNYEzkNZubzW9eeSBWl8rcSQCeA2
+TVxSjETu2dRo/jbWdMaCZJ2LpF5X0XPfOc1DhFlX0Oi+HWjWPiu71HVL2Rj5bB+QMb8t8+TnkYqa
+jcUkgXcx/G0th4oupIwhaRVRId6Hf1OOR1p07wQSsznL3TZtCufsmwCRflbHU8ds1afMritY6DwR
+4xbQBfSbYy00SAs33hjcPl+vFTOHNYEzkNZubzW9eeSBWl8rcSQCeA2TVxSjETu2dRo/jbWdMaCZ
+J2LpF5X0XPfOc1DhFlX0Oi+HWjWPiu71HVL2Rj5bB+QMb8t8+TnkYqajcUkgXcx/G0th4oupIwha
+RVRId6Hf1OOR1p07wQSsznL3TZtCufsmwCRflbHU8ds1afMritY6DwR4xbQBfSbYy00SAs33hjcP
+l+vFTOHNYEzkNZubzW9eeSBWl8rcSQCeA2TVxSjETu2dRo/jbWdMaCZJ2LpF5X0XPfOc1DhFlX0O
+i+HWjWPiu71HVL2Rj5bB+QMb8t8+TnkYqajcUkgXcx/G0th4oupIwhaRVRId6Hf1OOR1p07wQSsz
+nbzRo9HnNpMqK8fBz3/MValzK4rJFzSdc1O0u5737Y6Od+4lQf4hUuMWrWGm+5R8Q6nfa81pCLgy
+CfHzbQBlRTilFPQTu7GFqcFxptzaR+YHDyAk7cHk4w1VFp3JqaRfodKsNxInNx1PTYKybUXojl0E
+RLvcR5/P+4MU3y2vYLl/Q7e8fWrD9/tP2mHBCD++Kio4qErLoxPZnq88GrRgeZecdj5KVyQUZfD+
+Zm35CCzv2fdHqAADYz5K/wCNNysrSjug0uUtat9QGnuz3O9Fxx5YXPIq6LgpeotG9i7HZ6jPCd1+
+BuPTyVqJSjTnpHYejGxQasXKm+BPP/LJMU5KmkpWEmr7Eq2WrOcve4OO0K81DlBbL8R79Bs8GrRg
+eZecdj5KU4KMvh/MG/IQWd+z7o9QAAbGfJX/ABpuVlaUd0GlylrVvqA092e53ouOPLC55FXRcFL1
+Fo3sXY7PUZ4TuvwNx6eStRKUac9I7D0Y2KDVi5U3wJ5/5ZJinJU0lKwk1fYlWy1Zzl73Bx2hXmoc
+oLZfiPfoNng1aMDzLzjsfJSnBRl8P5g35CCzv2fdHqAADYz5K/403KytKO6DS5keLrfUB4dvme53
+osD8eWFzxWmHcFUXmOnZ1I6dTL0LwJea34e+03eqvtUsI1VBgAL9fWtpVFGWkT0km92WY7LXPDE2
+m3l1fxnzwV2eWPk3LwPSi8ZppIevcdo1jb6p4g1K5adIpYYFHMK5+bduwOnQdqUnyxS8wtqzibjw
+tqFz4jkjt5F8khneQRggD+LHNaqaUNSeV3HaVe6hotvcWcdyEIMiMFQMTtb7w70NKVnYFdF/wDYN
+fSapqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4HOMUoJcrutBu+hmWngPW
+NX0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJyRhsYqasrytYcU0jAuPC
+2oXPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMTtb7w70NKVnYFdF/wDYNf
+SapqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4HOMUoJcrutBu+hmWngPWN
+X0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJyRhsYqasrytYcU0jAuPC2
+oXPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMTtb7w70NKVnYFdF/wDYNfS
+apqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4HOMUoJcrutBu+hmWngPWNX
+0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJyRhsYqasrytYcU0jAuPC2o
+XPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMTtb7w70NKVnYFdF/wAA2DX0
+mqahJPFttY1wjRgk7m6+oxRNpWQtTQ1/ULW81AvJNG77QG3wQ8Y9NxzioinbT8yjzy3S1ljvRPI8
+TSECMhfqGxWuuhJd1m1Oj+EdLuYTmZboMM/3Srk8emaUXzTa8geiRi6peS6jdQsy7cSR7tuSBgin
+FWJqaxfodNtkYg56VneKVjkHYGOMHmlqBb0LzDrmnlcnF1Dj3+cUVOVU5XtsD2PXYWZzsl4x2z9a
+5JxUVeJkuwqpJCrbG+UHIpOUZtXWrDVFDVXZdOuN64DKpyORy61aSco8rvb7wjoy6Y55GDbsBeQM
+9qnmpxi1bVi1JcKFGApO4cgdKi711toMiUSvIChcqvC57960fLGNmld726BqLCzOdkvGO2frSnFR
+V4guwqpJCrbG+UHIpOUZtXWrDVFDVXZdOuN64DKpyORy61aSco8rvb7wjoy6Y55GDbsBeQM9qnmp
+xi1bVi1JcKFGApO4cgdKi711toMiUSvIChcqvC57960fLGNmld726BqLCzOdkvGO2frSnFRV4guw
+qpJCrbG+UHIpOUZtXWrDVGP4pZv+Eb1NWUjfbPgjp82K0gk6kLPZ/PQqlpUj6nJJ4h1LSNDu9MgI
+Lec6LsA52YBIHWunlUpJnpXsjsrjW9D1220N7vJHmIz7umQnpz3rNRlFuxRyHxLS90O/e7tHkVLy
+KT5PTyxg49jnNXStJWfQmTaK/wALNf0+G8uPt8isDGxUnPC8ZqqsXpYUXc2NJtrO+1DVL7T4xgli
+N5Uful92OB05qZKVkh3RVf4c/Ey00nUL6x0Ey6bPD9rjuDd2qkxFA+7Z5m7pzjGa2VJyUWyPaJNo
+5bwxf6j4T8Vaja61poFxbxKhjM6nyzKA68puB+WidJySsJVLHT6Eur+KJbmXTdLE/wBmkbdGJ0RA
+ZPmGQ+M8dKn2MrD9ojEbR/iq8t9Yx6JtmjxLJ/pVv8qy+Zg/6zvtbpV+xSsL2he8DN4x0aXVZLrS
+I5Vs/LWYtMn7vzjtUcNznb2qZ0uYFMmtrTxWnibVIbfRYlu1KB4jLGdqMqlRnft6EHrSdJtJXH7R
+GdZeG/iI15q+mWWkxvIjxmQefENpkRXXkyAdDV+yvZi9pa5S0OPxR4M8RTx61p0Uc32fKo8ivtDt
+wR5ch9KJ0rqwlM1NNvNa1xtRuLO2gkGnvGZkHyopuifL4Zxuzj8Kl0rIpTuzmtQ1Tx5p19qGkzWK
+RXUDq0y70+Xz03jkPjkHtTUKbSd9Ac5LQ6P4WzeM7ue+a30yG7EOEk3uo2bxx1kHUClOkpJWEptF
+uCy8XQa9qflaNCtwESR4zLH8sTHav/LQjnaamVO0Umxqepi2Nh4zddbgs9NR1heMzHzY1KGTIXq4
+z9002oe62xrm1SRY8Fad4s0fxTfW1/o6tcQwhTG06fuzJtYcq+Pun1omoSirMSck9jes7PxBqOp3
+kEOlK89nMwkgWdAitKN4zuODx0NHs21oHPY47Wb3x1od1Ppl3pnkXLZlx58R+V93OVYjnmq9lFWF
+7RvobPwz1bXYrjVWbSRdCzWIT5nVfKE4+Tr1zt7VNSmm4q+41J2fkdBBoPiezvtR1J9A8iHdKHb7
+VA+xIuGGN3ONtOWHqcvoCqwuctfN/YLarbb18ttkobI5EmMdOo96le9ysra5xaahcz7mUtjcfWtL
+JEXZ1keiQL4eubO+uY45oGbacg4J+YH5uuc1lzPmVkXbQwrjU5rvR3BhZ5LcELt5Qf7X6VVrMV9D
+IguLZtMgTdmZrhC318wGq1UvkTL+GzrcSBxnoRyayvHlOQCGjbGeD0o0krhsXdGUpq1gM5/0uH/0
+MVMmmn6MJfCz1uHMiiNhtJPGK5Ze63JO/cx8h8oaVsL/AHeST0qYNRV3vcHqUNWmQ6PNGpG447er
+jgVahJVFJp2/4BSZeK3AmXcflK8n8v8ACpvT5HprfYWoFZIJNgb5WBxjrmi8Zrma1W4baDpYzFCV
+3bjuyf8A9VKLU57W0B6IjhzIojYbSTxiql7rck79xeQ+UNK2F/u8knpUwairve4PUoatMh0eaNSN
+xx29XHAq1CSqKTTt/wAApMvFbgTLuPyleT+X+FTenyPTW+wtQKyQSbA3ysDjHXNF4zXM1qtw20HS
+xmKEru3Hdk//AKqUWpz2toD0RHDmRRGw2knjFVL3W5J37i8h8oaVsL/d5JPSpg1FXe9wepj+KbiN
+PCuoqCNwgc/r0Fawpy9tFtO10XTfvx9TkZfCMtvY6frVtIZJZi0rrj91yeRn866efVxZ6XL1RILo
+T+Io3gRIoYQDtAATchxx2pW90fUo+OtauPG2rQwRIYxCpTHqSSCfpVU4+zjdky10OZvNGm0O+aMS
+75I+FZO6sONtWpcyFaxf8MeI9U0fTtVURmRZbZ42JU/Lu4pSim0C2Z9QaVq/2v4MWcMcM8k8vhiJ
+FWNCzM7WQGFC/MTnsBmum3u/Ix6njuu+CdA8ReMtR1P+1dVin1FogLUeH792U20PlsAcAt0yfl4p
+a22A0/C/hp/AGrSalFLrtzBKqx3UZ8OahH+7GcODgjKH9M0K4Gt4VEOm3uq6pfvq8k2qNBI0Q0K/
+HkeWHAQMFO7AbHTtS1AytSgsbC212CzbU7m71d7Uw250i+iYeQ7M235Duyre3SlZ2Hc1rRNKTxlq
+V/HPqv2qeOMtaf2DqDPEqxomT8obBxn7o60WuBGLWTRfGFz4jRdaaK5WKK5gHh3UUAiSMIHDEHJQ
+rn6E1SuI5y98FxeINRutWv8AUNXjnvGV3hHh6/cRAABYwe+0cUagGj+HNO8KrrVlaXWo3t7rUmmm
+KB9HvLdgLVjnGQd2QT6YxUz1TXkOOjT8y9qfwouNX8U67rLT6lF9ve3KRHRr1iPKjCn5gvftWMXU
+UFHkeho1FyvzIi8N+EZvhdqc+qz3N9JZXCxxTq+mXcJ2qrHOGUqWU89em6qU5L4o2E4p7O5P4c0O
+8uL/AFDWZr6aaPVfKLJFp92xjEe7CBwu35OnB7VM/aS+wxx5V1RZs/DF5po1loRe3Ut+tukca6dc
+oB5Um7ksnJOalwm7e69ClKK6ovjwZcz+I9V1V/7RVbp0ZIjpN7u4jVTlhH7UctTlS5HoK8b7o5/T
+DZaH4ym14aw11DelIp4I7GdXYAKgIHOWR8d+5q4TdkmtxSjvrsZt/wCB21vxRPqeo6vLDc37Ky2v
+9nXTSJiPAj6DOwelDnNtpQeglFJbmjo/gd/CieJLlZry5bUktfl/s+4iSMW/Us7rjpz2xT9+U4e4
+1Zh7sYy95O6Oz1+Qw+EfEEg6rFqrfk01dUvhfoYR+JHzlcC51q1Mj+Y7C1j3cdhgBa5NIv5nRuvk
+VYJJYUMaA7UYqM47U7JgjX+IMkV3rTC1ZmSOHMjryoKl/wClRS0jqVIyXksNO0XNl+8eV1Yg9sDm
+q1ctRbLQzdQsJI5oLpwY2kuFZ4+ODuGDimnuvIma91s6hkJXJbrWUXrscg5iSNpXpzSXe4F3RiU1
+7T8Nj/S4P/QxSlrTlf8AlYS2Z684jmiy52nBGB7VxxvCXu6mQyN4YkDHI+YZH0pyjOTt5CVilq0a
+HTZpNwzgH/x4VSm+ZRsOK1LssLGMMZOo9e9TCavZR6is97kjsxHllOmGPpjFTFW964/Kw2ZjFN8r
+4yefrTglKGq2QPRiuI5osudpwRge1Ebwl7uoDI3hiQMcj5hkfSnKM5O3kJWKWrRodNmk3DOAf/Hh
+VKb5lGw4rUuywsYwxk6j171MJq9lHqKz3uSOzEeWU6YY+mMVMVb3rj8rDZmMU3yvjJ5+tOCUoarZ
+A9GK4jmiy52nBGB7URvCXu6gMjeGJAxyPmGR9Kcozk7eQlYyPFcKSeGtRYMCTbPV05tVIxtpdF0l
++8j6kq2d94Q8MwxqRMJE/eg5KJkdRk9K1upyPUWiMfXI9Pi0LTJkniNzFFGwSLgZk5cOdx5qo35n
+2F0Lnw/sNI1W/vZWdWmeAHLqPMB5Bx+XpRO9kguYmvzw6dr9pDHGklyhkT7ufl9vypxV4vsJvVEX
+n+HbHwjeSMgW7kimLRqG2ktnHO3HC1VpOa7A9me9fDh1k8J+F2AwG07Tz/5CSuyOyOd7syNKubuX
+4s2ySzSOiXWplFZyVX/Xg7QTx0piO+1lF1vUk0wqGt7dVubvIyrHnyY/++hvP+6PWgDndMibS7if
+SHzi2w1uf71u5Oz/AL4wU/AHvQBgXMl2Pi34aRppDEftbKhkYqCIY+i5wKAJvAGr3eo/FvxHFNjZ
+bwXax4Hb7ey+n+zWNGKU6v8AiNKnwQ9Du9ZRdb1JNMKhre3Vbm7yMqx58mP/AL6G8/7o9a2MzndM
+ibS7ifSHzi2w1uf71u5Oz/vjBT8Ae9AHMx6ncTfF3SrNiPLjurjaMdxZW5/9nrCK/wBpm/7qNH/B
+j6ns3QVuZnD/ABChj16W101kWS3tZUu7oN91m2SeTGfxHmH/AHR61FRaL1KhuY3gq1XRbA6NjC2x
+eS3P96CWVyv/AHwcp+APerJOps/+PuD/AK6J/OgDqOgoA8N0TQdG8V6pf2S2yNZ2TW2ppIQOd8Jx
+GM5yCeWB/uCueh72HXdXNKrkpu3U4O90G78C6jPa21zNLc20kk9gEUL9nt3cGRyxJLlcFdg7DnrU
+Suqifwp9Sovmi4tXsj1yC7ub7wLc3E8axtJZ3LBA5fC7W2/MSc8V1QioJJbIwtZGL4idY/B/iJiM
+hYdWJH/ApquXwv0FH4keaeBrLR9S8EXV8RGZkwjr3CAriuCd1Ox0p+6cX4jgtDrFwbaGQRls/I4A
+z36rVwvyq4Pcy7FRb6BqU9xIFMq+TCPXk5/Ch6yVg6GVcstvpVl5fzyGQSHHJAH/AOqq3kxdESap
+qcmpXFsxIALpwP4cMOtEVYVR3i/Q6eRMoCpx6VjF2epygF3ABj2ovZ6IC5oYWLWtPJP/AC8w/wDo
+YpTblCWnQT2Z7A+JfmGGZQ3A9R36VyRjJNpXs7GajKWyu/IRJ4XYxhRkjAyOtJ05xSlcSZneIWjG
+muASRlR9PmFaUOZyd/UFa5ozwl4lZDjHQA5rOE0pNSW4NaCiPeqiRu2D2/ClzcrbigIxHHbkEueR
+0HTHuarmlUVuVaC2JHxL8wwzKG4HqO/SiMZJtK9nYpRlLZXfkIk8LsYwoyRgZHWk6c4pSuJMzvEL
+RjTXAJIyo+nzCtKHM5O/qCtc0Z4S8SshxjoAc1nCaUmpLcGtBRHvVRI3bB7fhS5uVtxQEYjjtyCX
+PI6Dpj3NVzSqK3KtBbEj4l+YYZlDcD1HfpRGMk2lezsUoylsrvyESeF2MYUZIwMjrSdOcUpXEmYv
+jVlHhq/CEn9yw+la4a7qK5VO3tI+pl6tr+qR+FI4pCGlcyxurruZMHB7/lWyinM9N7EvhrQtO1m8
+0Jvtu5kZ2ltmztzGGZcds9PwptyXNoHRGd4uW48L6/fuIlWOYbkAGB79utOHvxSfQG7Enw+0q71r
+U7uS+QqwgDQM6EZBPJGfwonaySFdnOeJLOHS5tcM85YjeijIC72AyDiqhd8onsz6B+C+r2eteBdJ
+eJlVtMsraO4j+bI8pduQSoHOw11rZHO9zl9X8JX/AI912G7giEFpK926STKrPIslxK4KRk4Hy45f
+/vmmBm6b4F8YaJrtmYdFtDeRoW3Zt8SKwMfzbWT1zQA+2+FnjDWdXvBNpNpC/wBsY3M4NuxXzP3u
+FB3ZGGA60AXrrwtr/hfUNBtbq1tMQw6tCk2T5DPcqPJSVFy6AscHG4e9KS5otd0NOzRzfhrQNa8R
+DzZvDmkadBtwJHM8shXJ/wBWhlKjn+9+VYRot7s0lUsVGn8R+EdbsWbw/oaXKKxEoabMq7TH823p
+1z0qo0pRe+gnNNFvRLDxH4ovbmT+xtEjBvWNxdr5jSDf+92gPnI+YD6UOjJyu2CqJLQsXFhrukeL
+tEW70TSxbJrGnv8AbrZrgbMXMJP7ppDtZ9oXoR70o0XGa1G53ie7Q6/qfiCFJNOiNpayDIup1DSO
+p7xxZ4+r/wDfJrcyOE+IWq3thY6dNJp8A1W3O+SeQR7Z0FtOrbmQqR/exWdWXLG/mXTjzSE8Aabq
+2s6N5lnFDBcSXkxurxVTOGlaXaAwYsAGA5rQg60SapoFxCdWjj8rzUVbqDJjYlgFDIfmQsf95f8A
+aoAup4h1TXbZZdNha1tXXcLmZQ0jr6xQg/q//fBpPRAeQeJNRn8Ma5Z3RhgtLuFJZo7jygyyb4h5
+qyeX83zO/mL8uFzjFc7U1Ocoq8X0uaRakkno1syr4Ig1LVLTULyzto4pLjUGNzejy24ZS4jiVw3/
+AD0wTnpVzcasFFLcEnCV2dlDp+qeFPActpqSKYvs1ykd1HkqxkL7AyfeQnOB95f9qtkZmd4nIXwV
+4lPHFvq/X6zVUvhfoTHdHzVaa4+kaW1tteMPGAwHAz2NcrjzSudCdkFrqS3cZllnZSWOAPShqwJ3
+Mw3E1xZxLIWIUEYycZGKNmHQ6O+0qy0Xwmjb45J3PmEjGB8udtQpOU/IdrI5GHUm85lJyryxNz7N
+6VpykvVNHeW8E0kC3DKfLK7iAeSKz5UjJUrbsmW2tDbLM8+CVBx6frRaw/ZRuaHhCzgvdb0uTzA2
+b2EAHviUDmlKNov0HGmoyTPWJdQOg6q2m2bxSS3KHB7rjG4Z9OlYatXNYU4QvZbu5Pr2l2mkacLm
+5vUEzHc4GMZ5yFotqRPD0qjbta/Ur+IBodt4NkuEnzKTHjPXO4Z4ojCLYOhBQcUhbCxvLixj1CSN
+jbMnmMqMN7Lzjjr0qPZpaWM4YRJrmd/+GLkemaS+mxXs17gsitj+77ZzT5LKyZX1WnzddxdE0uy1
+a2S6+1BzvcICOuxsc0KHLotAjhoQknduxSl1A6DqrabZvFJLcocHuuMbhn06VWrVzWFOEL2W7uT6
+9pdppGnC5ub1BMx3OBjGechaLakTw9Ko27Wv1K/iAaHbeDZLhJ8ykx4z1zuGeKIwi2DoQUHFIWws
+by4sY9QkjY2zJ5jKjDey84469Kj2aWljOGESa5nf/hi5HpmkvpsV7Ne4LIrY/u+2c0+SysmV9Vp8
+3XcXRNLstWtkuvtQc73CAjrsbHNChy6LQI4aEJJ3bsUpdQOg6q2m2bxSS3KHB7rjG4Z9OlVq1c1h
+ThC9lu7k+vaXaaRpwubm9QTMdzgYxnnIWi2pE8PSqNu1r9TP8YpocHw9vpkn3StFgZ6578U6cVzo
+aowgrJdjj7mGwtrrT7s3fmQyTiWRHGDvT5mB571abaasbM2tctbe21Kw1fSp1YtxsjXcx4+8ABnI
+6HP41MXo0wPPvHXibWNc1KSO4O0IrYTb3HHt3rWnFJXIk+hDo/jbWdMaCZJ2LpF5X0XPfOc03CLC
++he0DS7XxLpevatdSMxiTcAQMbyx+bPPPFDvFxQns2e1/AIxtoGrlB8rWlmw/FJTXVH4V6GL3Znw
+pe6d4606PTLj7J57agzpt3QsRNcfejyB26rg+9MR2Wnwx+H5rF3+03t5PLFD/rWZpGGXbb50m1Bg
+M3UUAdB9gh16FNV02WWzuml+fe0pXdETE6yQpKqMRt2/h1oA4zV9MFt8U9Bae4lupfs+qnfMc4It
+YvuIPlT73YfWgDlfh559t408X21nfNbTC+kmii274WTzpA+6Pp97HQq1RTd3L1LmrKPod7p8Mfh+
+axd/tN7eTyxQ/wCtZmkYZdtvnSbUGAzdRVkHQfYIdehTVdNlls7ppfn3tKV3RExOskKSqjEbdv4d
+aAPOZtPdfjbDJcXUt08MF3FmY5w32FJMooAVP9bjis1JutJdki2kqafdnVDSWspWm0uc2chOWUDd
+A5/2osgfiu1vetCDkvHOkPa6BaW6pLf3t5Otv+8nch2EE0hP72TCKNpbGe1Z1ouUVbuXSaUvkdP8
+PNCN54K028s5Xs71ZpxIWaVk3RXEkbLJEkqoxGMfhWhB1Y8PWlukt1cO95dLG+Jpzkrwf9Wv3Y/+
+Aj60Acw+liwMk+n3H2FjlnGMwN6l48gfVl2t70AebXFpJoHiO2uba6uNQnSNYYomeWOVpZYTmNJJ
+pPlGN0pPG0cDnFcrqe0lajP4vwNoqKjeS2Oea/1Nb9tVtdSZ9RjdXu7VnkiEQjLRP/o6sIpQuMHa
+5+4KUZSoWjy2WvzCSVRSa1Z7XZx2eueAL7WbktdXjafefvZcnYfLcYjUqqp6HYPxNdUOay5rXMFe
+2py2tqreFdeDHAMeqZ/77mq5/BL0Yo/EjwPVGsfEem28BTdMkEccWUO77xxyOtcavBs6dHEzrzRo
+9HnNpMqK8fBz3/MU1LmVwskalp4ftLbWZLQSF1beS3lqTngHA/8ArVLk+W47aiXHhbT9U1P7HNf3
+Bg38soQY4PTj2oUnGN7Ba+lwvfhnoS3V4tndXMkNo4BJ2E/MRgkhaFVlppuJwXckuPD9w1mllY3k
+sjLIUI+TAA98UKfVoOQSw8IzT+UJJ5QsLjzcqpHUD0odRIOQ1bLQFN3JcxahMAs6lMqn8PPPHtUy
+m7Wt0GoeZLb6pqkHiARLd7tsbqHEQzwVzS5Y8mw9blr+2bu+8QotzcrPEsi53RLt4BI49MijltG9
+gJfELXGqXGoxW9yTbQSAMEQYAbGPpSjZWdtwd7bljXbjxLpnw1W4s9ZQrHceSsBjUnAbZ97dRHld
+WzQO6jczNOm16YWyyTfu7aRfMVowy8EDBHcetU+RXfcNTXXWdavZr2QaiQk0oAHlLx8v/wBaoair
+aD1MS31TVIPEAiW73bY3UOIhngrmq5Y8mwtblr+2bu+8QotzcrPEsi53RLt4BI49MijltG9gLPxB
+tdRs9Us7VL6OS2vInlZI4wPL7gZBI/SlTcXd22CV1bUq3GueJzpEek2F+XEblMbV+VR70+WN7tBr
+0ItOm16YWyyTfu7aRfMVowy8EDBHcetN8iu+4amuus61ezXsg1EhJpQAPKXj5f8A61Q1FW0HqYlv
+qmqQeIBEt3u2xuocRDPBXNVyx5Nha3LX9s3d94hRbm5WeJZFzuiXbwCRx6ZFHLaN7ATeIBLrFzqE
+EV0fskMgWQIgACuR+VKNlZ23B3tucv4iV7d7eytLu4n+Vhh0BKt04C44IPpWkddWhO+1zc8Pjxqd
+OfV4ZoAY96RxyxZ6fLgjIxmpl7O9mhpyaLnheFdXjOsXkyRXjl4WVLfhRux0Oeamdo+70BXepydx
+4W1C58RyR28i+SQzvIIwQB/FjmtFNKGouV3Ksl1faRol/ZLcBfvowCg7tr9R3ppKUk7CekWfUHwc
+03S9I8AaT5XmNc6jp1o0sh4XLRfIMZ4C7vxrpWyMHucT4t8O3mueJ7Oyt7aO5nDX6rGzKAcXU5PL
+cfw0wIZvhT4thjMr6BbII/n3rNbKVx3BBGKAKqfDzXEUBdBhx9bX/wCKoA2NO0i/07VPC+m/ZoUu
+XtPEESQykeVvmjXYHMefk+YZx2pSXNFruhp2aPPYry9GoXlrL4V0aGeyla3lWSa5bayswKjErDg5
+rmjSlK+ptKaVtyd7y6i/e/8ACO6CpT5gyyXakY7ghqpUJr7RPtIvuNTxBdIgVfDeggD3uf8A4qj6
+vP8AmD2sfMTRtWuNb8Z6PYjQtMt5Dqdi/nxyXHyBbiEttDORkgAfdohTcaiV9hyleFz6b/sK8/vx
+/mf8K6DE4b4waW9p4Xhll8t9t1uX5yuGEEx3buMbev6VlXbUFbuaUUnL5G18LdWsbXwJpkSxuAvn
+9AP+e8nvWpmdS+rW10jQorhpBsGQMZbj1oAxdf8AC97e6RcwhTLvTbsidQzA9R+8Gzp61NSmqkbO
+/wAhNXPnG7eTWpI9Tn861u7d9rkz52nABliLf3uh9K5qMIwtFrSWzN3FRjaOnL0HeKvDuoeEpdMh
+tJkubhmmkeZfkjiBjXhVyRyXJ96rklOc430jYOdRinbc910ln0X4Vy6bdCQzppt2rHg8urkZOfeu
+lGLOU8UMy+CfEpBwRb6vg/jNVS+F+hK3R4p8L9Pa9tL6/kmiC2kKgIyAk7n6+vFcdRpNI6I3sbOv
+6ha3moF5Jo3faA2+CHjHpuOcVnFO2n5lj/A502XW55dRlWEN9zrj5m4ziipflVgRt250GPUNQjsI
+vtMrMyrhQy5OMnJxxmpalZXGcL4mGt6It/BaTOsc+15WxjdjjH4fyrWHLK11sTK6Op+FSadc286T
+MwlZGZN38QHYH1qK17jWxs2GmWkenXN294qCMygRhlHzksdrD+JzUO70sM4KyuroNqRYGOQ3BfYV
+K44xnkd61aWnoSupteBzpsutzy6jKsIb7nXHzNxnFTUvyqw0bdudBj1DUI7CL7TKzMq4UMuTjJyc
+cZqWpWVxnC+JhreiLfwWkzrHPteVsY3Y4x+H8q1hyytdbEyuixDLNP4JsQzuYzqEyYYcf6rdgH61
+Nkqz9Bt3pndWGmWkenXN294qCMygRhlHzksdrD+JzWbu9LDOCsrq6DakWBjkNwX2FSuOMZ5HetWl
+p6ErqbXgc6bLrc8uoyrCG+51x8zcZxU1L8qsNG3bnQY9Q1COwi+0yszKuFDLk4ycnHGalqVlcZwP
+xDvtWj1HTPKmdWk06J2yB0ZPX0/pWlGMeWXqTUbujrfhUmnXNvOkzMJWRmTd/EB2B9amte41sbNh
+plpHp1zdveKgjMoEYZR85LHaw/ic1Du9LDOCsrq6DakWBjkNwX2FSuOMZ5HetWlp6ErqbXgc6bLr
+c8uoyrCG+51x8zcZxU1L8qsNG3bnQY9Q1COwi+0yszKuFDLk4ycnHGalqVlcZxHiE6xoT3kNvM6w
+zsjztt+9g8j8P5VrDlla6JldEnwhubC91+6e9OF8lkiLHHzFh0/AUVlaKFFtnVXB8LwNdTS6jEGt
+5Zf3KsNpLH+6etR7zSsijza78W6lbJcWxikjkeR2Gf8AaBzWqgnZkuTOr+Fmv6fDeXH2+RWBjYqT
+nheM1FWL0sOLuS39rZ39rrt7p8ed+Aob/nnuUcZPtSV04pg7WZ9BfDyMxeF/DKf3bCwH5RJXZH4V
+6GD3Zlafx8VdO/666r/6Nu6YjutZRdb1JNMKhre3Vbm7yMqx58mP/vobz/uj1oA53TIm0u4n0h84
+tsNbn+9buTs/74wU/AHvQBkagD/ws3wh/vaj/wCioaAG/Du4W3+LvjC0tzthmR7iUesq3Trnke56
+cVlSd5VPU0qL3Yeh3esout6kmmFQ1vbqtzd5GVY8+TH/AN9Def8AdHrWpmc7pkTaXcT6Q+cW2Gtz
+/et3J2f98YKfgD3oA42zUL8a7Qnq15Nj3AsLX/Gso/x5/wCFFv8AhR9We5dBWpBwnxGtYfEUtnpz
+xrJBZTLeXIb7pby5RDGfXnLn/dHrUz2XqVDcyfBVqui2B0bGFti8luf70Esrlf8Avg5T8Ae9USdT
+Z/8AH3B/10T+dAHUdBQB4NNoHh7Xtf05YLPbDZBric9fO83a0C4YY+8WDL/0zHrXNQ96hZ7xbNKv
+Mpu3U4fUNLPg7W/7Clllm8y7h+xQ5+URyyDZuJLDI5jGQQO/Wj33U0dlLdg2pU3Fp3R7TeiUeEr0
+y25gc2VwzRGTzCpKsSN3euiEYwSitkZWSRzuvKz+EvECqMkxaqAP+BTVc/hl6MUfiR8/6fM+i6Ve
+wMQqlVfPf5jj9K42uaSZ0rSJzSahcz7mUtjcfWrskTdnUTnUdD1ORLgjcI/l2nK9cenrUK0loXqm
+dJ4D8RT6Akt8lvHKZV2sX3ELzjnt1qZq+gLVCNrGk32i332nJufP5AHyvyKXLJSVh30EsvDWp6tp
+Q1HTpyZLZZEESnpgkY/EUOSTs1uA/wCH1jBqU9zdXt425ChVSQo3HOfvdcUVXZJIEVtauU1PxObW
+xZXVUwzE8YBzkmiK5YXYXu7GHOdR0PU5EuCNwj+Xacr1x6etWrSWgtUzpPAfiKfQElvkt45TKu1i
++4hecc9utTNX0BaoVdb0K50m8bUNxcXO6QADDruGfxxS5ZcysNvRl1rv4QvarbeZqPkrIZFTNrwx
+GM58zPSl7172DW1tAW6+CyLjyb7p13Q//Hqd5it6ALj4LdfJu/zg/wDj1F5+Y7ehImofBbobW5OP
+a3H/ALWpe/5h9wrah8FgpAtbrJ7/AOjn/wBrUe/5h9xk+LL/AOHN5pwe1e9mu0NnFD5v2faEWZPl
++R8/dzzjNOHNf7xSvboLZeGtT1bShqOnTkyWyyIIlPTBIx+IocknZrcY/wCH1jBqU9zdXt425ChV
+SQo3HOfvdcUVXZJIEVtauU1PxObWxZXVUwzE8YBzkmiK5YXYXu7GHOdR0PU5EuCNwj+Xacr1x6et
+WrSWgtUzpPAfiKfQElvkt45TKu1i+4hecc9utTNX0Baogv8AVdM1Lw1qqTlvtTO4wANr5xikotTi
++gP4WcRa3FxZK3lTvCI9yZBAOPetWk+hK0O1+GHhfSdVNxqV/dDMajYhwvOT8x/Ks6smtEVFdTI8
+Y2zeIfFjJasrJFGsW715PP606b5IaikryM280abQ75oxLvkj4Vk7qw421SlzILWJ9G17U9N0fU49
+hdJERSSD8v71aHFOSF0Z9PeBb3UNN8I+GbnU4FSCWw09o7iJty/PFHtV1wGVjnHdfcV0R2Rk9zlN
+Z8K6h4/1u2uoYhBaO140ckyqzyLJcyuCkZOBwer/APfNMRlab4F8YaJrtmYdFtDeRoW3Zt8SKwMf
+zbWT1zQA+2+FnjDWdXvBNpNpC/2xjczg27FfM/e4UHdkYYDrQBo3XhnxB4Xu9Bsrq2tNsMerRRzZ
+P2dnuUHlJKi5dAzHBxuHvSkuaLXdDTs0cx4b8Oazr37yfw3pGmwlRiR2nmlKnJHloZio/wCBf981
+hGi3uzSVQptL4h8I63YsfD+hx3KKzCUPNmVdpj+baeOueBVRpSi9xOaaLmiaf4i8UXty/wDY2iRg
+3rG4u18xpBv/AHu0B85HzAfSh0ZOV2w9oktCxcafrukeLtEF3omli2TV9Pf7dbPcDZi5hb/VNKdr
+PtC9CPelGi4zWo3O8T3aHX9T8QQpJp0RtLWQZF1OoaR1PeOLPH1f/vk1uZHA/EbVrzT7HTZ5bCAa
+rbtueeQR7Z0FtOjbmQqR/exWdWXLG/mXTjzSHeANN1bWdG8yzihguJLyY3V4qpnDStLtAYMWADAc
+1oQdaJNU0C4hOrRx+V5qKt1BkxsSwChkPzIWP+8v+1QBc/4SLWNdtVl0q2NvbuAVuJwvmOp7xxZ4
++r/98mk720A8M1zVPEVl44iubi0t47swNPC+U2kiArJuMfln99/rORhWrnk3FupbRvVGsPeXK9GR
+Q+EbbxfZboYkiumvrkXtwmOGm+cBA2chIn/WtZrmlGPTqTF8qbPVtfTWdF8OXkerpGwa0kjW7hzs
+d2TChk+8jMf95f8AarREHPa/IYfCPiCQdVi1Vvyaaql8L9CY/Ej5sRLjWLB3bezCLLfTecCuXSLO
+haojgklhQxoDtRiozjtRZMEekeIJ4dP8QW8KRpLPmVNpBYbD6flWEFeL7Ft6osaNc+GdN0GV3hUX
+Mpd3jVWxy3ygHG3AXmiSk5AtCLwvomgal4X1W+BUuLli0fHyruGOPSqk2pJeQuhQstT1O38STwaO
+TDHJy3VlwB/d+vShpcnvD6nIGz1qK/yoPmFpAxiycnHX1rS8bE2dz0T4QaVa6pb6jdXbp5pbyVzg
+deSB9cisqrs0hx2K3iCeHT/EFvCkaSz5lTaQWGw+n5UoK8X2G3qixo1z4Z03QZXeFRcyl3eNVbHL
+fKAcbcBeaJKTkC0IvC+iaBqXhfVb4FS4uWLR8fKu4Y49KqTakl5C6HL+IdKilvFn00Ij3F8YUT0I
+VMnHuWpwdt+iuOWxybeEtVjvNocltzgmNC3QdfWtfaRsZ8jO1+Gfw4h8R2t7cT6isTq/lAGLOc8/
+3x61FSrytKw1HQp654Qi0zWobVbsSzEuu3yc/L7fPSjUvFuw3HXclsPCWiW2jtK98FuG3MYlt29e
+MNnHTmhzk3sCh5ken+H7W4u7feCqMizAnkMELZ799uKadkwl0Nuy1PU7fxJPBo5MMcnLdWXAH936
+9KhpcnvFdTkDZ61Ff5UHzC0gYxZOTjr61peNibO56J8INKtdUt9Rurt080t5K5wOvJA+uRWVV2aQ
+47FbxBPDp/iC3hSNJZ8yptILDYfT8qUFeL7Db1RY0a58M6boMrvCouZS7vGqtjlvlAONuAvNElJy
+BaEfhXRdA1Dwxql+pUyC5YsmfuruBHpxVSbUkvIXQ5W/0K11rxJLDawlY2JY9x78Y7mqUnGGoNXZ
+mw2+uWYFnGuQGcHysnp/SqvF6i1Wh3/wZ0WxvLLUZ7gp5xlMas33gT6fnWVZ6pDjoiDX54dO1+0h
+jjSS5QyJ93Py+35Uoq8X2G3qilfSeH7TwXdPtC3bkM0ahtpzKMc7cfdqkpOouwn8LPffhXHpt54K
+0uS4RpL6HSLdozM27ZE0A2eSvRBtO3gAnvXalaK9DnvqzlIY73TvHOnR6ZcfZPPbUGdNu6Fis1x9
+6PIHbquD70AdRo2m3UutQ2kF1frND5f2y83q/wDBuUILgy4DMf4VxxjPFAG1Y2F7eXlzF589vqtt
+N5jTyEmKaHzZEhZ4oZEjJMSDqq9KAOc1fTfs3xU0Ez3Et1L9n1U+ZMc4ItYsbEHyp949B9aAOW+H
+aXcPjPxfHa3jWsovpJIY8bomj86VXzH6ZxypU+9RTd3L1LmtI+h2WjabdS61DaQXV+s0Pl/bLzer
+/wAG5QguDLgMx/hXHGM8VZBtWNhe3l5cxefPb6rbTeY08hJimh82RIWeKGRIyTEg6qvSgDhriykT
+47W/2i6luzHZXShpj92QWgdtigBV4kXoKzUr1WuyLa/dp+Z1o0lrKVptLnNnITllA3QOf9qLIH4r
+tb3rQg5HX/DiayqaY8t87RMv226MuQf3EjKFE7SYUsc/KuOMVFRJx17lQbT0Oi8BaHJHpIsoJbi1
+1Gznll86RmaKWFrqdYWeKKVEYmNe4HSrJOxHh60t0lurh3vLpY3xNOcleD/q1+7H/wABH1oA5oaS
+1lK02lzmzkJyygboHP8AtRZA/Fdre9AHk2peFmHjNbIX95cw29t/pjl/nheRAQsTzGRgku4kgA9M
+VlOnGTNIzaRk+HL278O/EGw0+W9u4y1zM0KynevlhnEbyrFIgl3qndQeKcLqbv1FK3KrdD6F1/w/
+ZweHdXu7h3vLoafdYnnOduYm/wBWv3Y/+Aj61oiDzzxE6x+D/ETEZCw6sSP+BTVUvhfoTH4keX/D
+6w0fUPAl5ekRmZZHV17hN4IrhqXU7HSn7pyHiOC0OsXBtoZBGWz8jgDPfqtVC/Krg9zt/h9pV3rW
+p3cl8hVhAGgZ0IyCeSM/hWc7WSRV2Y9/awaTq+qNcTklZGRQSAodsZDYpq7jEDj5dafRYbi0KSQh
+htZRkDI6GtVHmsyL2Ow+EniLSo5dVn1GVRvhGxSOw9KirF2VhxdzX8GtpFzNqkIjlkvHmmKc8bDj
+DA9hmompWXaxSOWu72bwPqMtgCxErB1fIzzlcdatJVI3FflOq+H2lXetandyXyFWEAaBnQjIJ5Iz
++FRO1kkO7Me/tYNJ1fVGuJySsjIoJAUO2MhsU1dxiBx8utPosNxaFJIQw2soyBkdDWqjzWZF7HRa
+LqsEOi6Hqd5nyF1C5L9P4fJ6fgtZte/JL+Uq94J+Z0vg1tIuZtUhEcsl480xTnjYcYYHsM1M1Ky7
+WGjlru9m8D6jLYAsRKwdXyM85XHWrSVSNxX5Tqvh9pV3rWp3cl8hVhAGgZ0IyCeSM/hUTtZJDuzH
+v7WDSdX1RrickrIyKCQFDtjIbFNXcYgc/wCMtVtNK1S2toomjSPTY8HgcyhXDcdeGxV0k5Rd/wCY
+U2k16HQfCTxFpUcuqz6jKo3wjYpHYelKrF2VhRdzX8GtpFzNqkIjlkvHmmKc8bDjDA9hmompWXax
+SOWu72bwPqMtgCxErB1fIzzlcdatJVI3FflOq+H2lXetandyXyFWEAaBnQjIJ5Iz+FRO1kkO7Me/
+tYNJ1fVGuJySsjIoJAUO2MhsU1dxiBx8utPosNxaFJIQw2soyBkdDWqjzWZF7HYfCTxFpUcuqz6j
+Ko3wjYpHYelRVi7Kw4u5r+DW0i5m1SERyyXjzTFOeNhxhgewzUTUrLtYpHLXd7N4H1GWwBYiVg6v
+kZ5yuOtWkqkbivynVfD7SrvWtTu5L5CrCANAzoRkE8kZ/ConaySHdnMeK7KHTW1vz5yzK+1RkBd5
+ZSQce1XBt8opbM9g/Z/j8R31jbahqJK240r+zrMYiO8bkj/hO5BEIAMNkvnPGMV1391HN1ZB4t8O
+XmueJrKzt7eO5n3agqxsVAOLqcnluO1AyXTPBHjPwlqC6m2hItsEKXawvAxMfUMFU8lD+maAM2Xw
+V4q1K5mvbvRI2muHMjbntjtH8KD5+irxQBr6bo9/p2o+GNP+zQpcva6/CkMpHlb5o12BzHn5ORnH
+alJc0Wu6GnZo87hvrwale2kvhXRobizkMMqyS3LYZWZSBiRhwQelc0aUpN67G0ppJbmro3iK98P6
+xHftoulQ2+wx3S2puCzJ/C209Sh/QmtIUpR6kSnF9yg/inVru5uLu40LRpJbiUyEytOWUfwpwcfK
+vFKVGcnuCqRS6iaNrFzrfjPRrD+w9MgkOp2LefG9x8gW4hZtoZyOcAdKUKbVRK+xUpXhc+mv7CvP
+78f5n/CugxOK+Irp4Rew1KSSIl2kinhVvnkt1jZt4XqfJcg/8CI71FRpJepUE2zV+GOtwy+FIb64
+jkFxezTyy9Dj96yonXoiAD9ask6p9WtrpGhRXDSDYMgYy3HrQBV/sK8/vx/mf8KAOR8U+CZ9LnuN
+etI1Z3Tbfxx7i08aqAjY/vRY49i1JrQaZxXgT4c3k3iv/hJtdEiSSSXBNsVH7td2IVU7+gWi2twv
+pY9b8T6zayeGdWjVZMtY3IHA7xN700I818TkL4K8Snji31fr9ZqqXwv0Jjuj5nsNcfR9Je22vGHU
+hgOBndwa5nHmlc3Tsh9rqS3cZllnZSWOAPSk1YadzptH8bazpjQTJOxdIvK+i575zmocIsq+h0Xw
+60ax8V3eo6peyMfLYPyBjflvnyc8jFTUbikkC7mP42lsPFF1JGELSKqJDvQ7+pxyOtOneCCVmc5e
+6bNoVz9k2ASL8rY6njtmrT5lcVrHQeCPGLaAL6TbGWmiQFm+8Mbh8v14qZw5rAmchrNzea3rzyQK
+0vlbiSATwGyauKUYid2zqNH8bazpjQTJOxdIvK+i575zmocIsq+h0Xw60ax8V3eo6peyMfLYPyBj
+flvnyc8jFTUbikkC7mb4q1HQ9Y1VJbpGaO3aE/MuHMavnr/u5604JxQSszWkufhG9stuZ9R8lHLq
+n+i8MRg/8tc1PvXuPW1tByzfBlUwUvfrug/+PUXn/SC3oNjn+DKPnZeN7H7OR/6OovP+kH3E/wBu
++DHe2uPwFuP/AGvR7/n9wfcIdQ+C+xgtvdAnvttz/wC1qPf8w+4wvFy/DzUdInXT5b2W/lNrDD5v
+2fH+sRMfI5P3faqhzKQparocve6bNoVz9k2ASL8rY6njtmrT5lcVrHQeCPGLaAL6TbGWmiQFm+8M
+bh8v14qZw5rAmchrNzea3rzyQK0vlbiSATwGyauKUYid2zqNH8bazpjQTJOxdIvK+i575zmocIsq
++h0Xw60ax8V3eo6peyMfLYPyBjflvnyc8jFTUbikkC7mP42lsPFF1JGELSKqJDvQ7+pxyOtOneCC
+Vmc5e6bNoVz9k2ASL8rY6njtmrT5lcVrHQeCPGLaAL6TbGWmiQFm+8Mbh8v14qZw5rAmchrNzea3
+rzyQK0vlbiSATwGyauKUYid2zqNH8bazpjQTJOxdIvK+i575zmocIsq+hc0XSrbxNpOvatcyMzRB
+XAIGN5k+9nnnihtxcUJ7Nn0b8OIraHwt4cEEaxo1naSYCgcyKrsT7sTk+9dUfhXoYvdkHhm3XUPi
+PNMOVs/7SOf9o3kq4/8AHjTEddrKLrepJphUNb26rc3eRlWPPkx/99Def90etAHO6ZE2l3E+kPnF
+thrc/wB63cnZ/wB8YKfgD3oAxrqbzfil4YiUZ8o3zN7AxQ0AV/gjo8A13XdQZxJJGsEKvg85XDn8
+WQn/AIFWOG/hJ9zSs/ft2PQ9ZRdb1JNMKhre3Vbm7yMqx58mP/vobz/uj1rYzOd0yJtLuJ9IfOLb
+DW5/vW7k7P8AvjBT8Ae9AHIXUaWvxy8PCMkeeplfvktBMn4cQrWVrV15o0WtF+TPb+grUzPE/GHh
+r+2PixdJdqhtlht7vcq79+YwiQSjA/5aQ+Z16Y9axlH942axl7iRF8Pf7X8NeJNT8J3WWtbaAXVi
+TtGyGSQ5j4GTtZscntWkGRKx6TZ/8fcH/XRP51RJifGD4vW3wmtNNlksFuzevMoBn8raIwvP3Hz9
+6k2B4tpemT33xa1CO8uS2n2zwXJklywlaWNJIwSeT8/zEk9q56K5qSla8tTSpJxbRb1XXfEvgC6v
+p7m72fZ4t1onlK7TWpZflJC7VEQTae5pSlJVfcfxWuC5ZQa7I7bwh4ph8YfDi91MXPnSywXfmrn7
+jAOoGP4QVAOK6KcXFWbbZlay3Ha2qt4V14McAx6pn/vuatJ/BL0Yo/EjwHUPsPiDS7eApulSJUiy
+h3cu2OR1rjV4ybOnRxKF5o0ejzm0mVFePg57/mKalzK4WSGRqtzNPcSv5WdxICDA+bn9KL20CxZt
+PEGp6TFb2mlzArdKQWZB160moy1a2DVbFM69qvh3Vrd1W2nMxCHzIj8uWHuPmqoxjPQmbcYt+Ru6
+xrOuajqMd7NJCJU6FIcf1rSOHpWtqcv1yp2RjtpDXJkYTsnmHJCqMVTpwXcPrVTsi9ok2o+HI5lt
+fJJlIJZ48t9OvSlKhSnu2CxlRdEUJLa4kuXmZlUuSSFQY564qlRp23YvrdTsjW0q+1PSrR4La5Cq
+4IOYxmk8NSlu2NYyouiI7O6udIne7UxSttxtkj45I54Oc03h6bW7BYuo3siHxPZ3166ao0sUZvLs
+o3lxgKCAmWxnvn8ayjTgqzp62SN/ayeHVTqYreB3dmP23G45OIh/8VXR7KPc5vrUv5UWtP8ACk9g
+riK6T5zyTDz/AOhVLoxfUf1qS+yhh8DF5Gc3oBOekI7/APAqfs49xfWpfyotWvhOe0haOPUMBhg/
+uR/8VUulFj+tyXRDZLSfSdZtHikSXy0inIZcgfdb1+grKjFVFLp0OjEVHT5bG/q+q6jqWoJeyzRi
+aPoUiAq1hqaVtTD65V7I56fTo3aRjcMnmHJCqop+ygurF9aqPoizo+rv4bjmSzMZMpBZnjy304I4
+qJ0qct2yo4mquiMyeeSW5kmDKpckkBBjnrijlil1D6zU7Iu6Z4k1nSLV7e2mRUcEHKc/XrUypwk9
+RrFVF0RDYeIr7S7s3CrBKxAXEkfHLdeD1ocItDjiJyklZanqVj4Z1HxVajW73UI45kLCMQwLjAUd
+ST+Fc7moaJHWk31OZ1H4brpy2c17fsgvW+dI1UbCeQOhFUqvNey2FyeZr+CvDdhZXOqW9vdtHsVH
+LSRqZD97I7DHHvSqTbUboaja9mctceFtQufEckdvIvkkM7yCMEAfxY5q1NKGouV3Kr3V9pOi39kt
+wBxIjKFB3bX6jvTSUpJ2FsmfTPw/ur7SPBfhWfUYVW2fTtNMVxE25Tuij2K643Kx6d19xXStkYPc
+66HX9T8QQpJp0RtLWQZF1OoaR1PeOLPH1f8A75NMDLU3dzqFgsttFDq0MYLXTxo4nUo0R3GMoRyd
+1AFO18N6wb68gtRBHc/bCbu+REBxIfP2hX3FgA4XmgDREmqaBcQnVo4/K81FW6gyY2JYBQyH5kLH
+/eX/AGqALOn6lcanbxnRrNNPs3jQLcSRruaNVwnlQg4Ax0L9P7lAFFTd3OoWCy20UOrQxgtdPGji
+dSjRHcYyhHJ3UAU7Xw3rBvryC1EEdz9sJu75EQHEh8/aFfcWADheaALYt7nQNThu9WtbfdlIVv4F
+4YFxtjYH50y3b5l/2qLK9wu7GrDr+p+IIUk06I2lrIMi6nUNI6nvHFnj6v8A98mgDy74lahLBr3h
+tr63jt9Qht7kvdtgrcDysNuEe3+6Cv1PFZVZOLWhpTSaZV+Dmnanr9pqd5YwJBJcahvlv+N2yT97
+sWOQNkDcPrmrg24oiWkmemCTVNAuITq0cfleairdQZMbEsAoZD8yFj/vL/tVQj5s8VaD8RvjLqVs
+viPU0Sys5J2tiYYUkZZCv3FjUYDBR/rDSvYGUnvNX8E3+gX1/a282r2NrdCAPKCt3EflTeRjDxjG
+M1jyunKVvhb+40vzrzRkfDzSfGXjXxzqXiWaVLW3e4uEvcFWx5sedqqwOR8wq5xjOCRMXKMrnf8A
+wh8Har8PdK8Xpe3Hm2NxbxRwTIPl8wrMAHX7yscgDqvqa0W5PQ73xQzL4J8SkHBFvq+D+M1VL4X6
+ErdHinww09ry1vb+SaILaQJhGQEnc/X14rjqNJpHQr2NnX9QtbzUC8k0bvtAbfBDxj03HOKzinbT
+8yzzy3S1ljvRPI8TSECMhfqGxWuuhJd1m1Oj+EdLuYTmZboMM/3Srk8emaUXzTa8geiRj6heTajf
+W7Mm3E0W7byMhhVQVmRV+CXodvthdcGtbnnoSO1VWyOlFwJBAuaLkiSWyHsKLsCBrdFpqTGVNQjU
+Wr8+n86fONbkniGCeDwc0pA2TXkaqcf3FYt/MVjzp4n5HZTT+p/P9RoncV0KqmcVhftDDmhySQWJ
+lu0VMsaOeFtWLlY1Lz5uvFO4FLxVOunasnm5DS6babfwih/wrnw0koy9Wd2LTbh6FGfV3kPHFauZ
+yqKKb3Msh61DbHYj3GkA1pj2pgIHbNADSu51GcAun8xS6Mqn8cfU9MTxDqWkaHd6ZAQW850XYBzs
+wCQOtc/KpSTPQvZHZXGt6Hrttob3eSPMRn3dMhPTnvWajKLdijkPiWl7od+93aPIqXkUnyenljBx
+7HOaulaSs+hMm0V/hZr+nw3lx9vkVgY2Kk54XjNVVi9LCi7lmeztNSg16806LO5G2hsf6sY6ZPtS
+V04pg7WZ9F+A/D1hbeA9CupQ89wui2ux5m3+V/oy/LGPupgccDJ75rsj8K9DB7srDSWspWm0uc2c
+hOWUDdA5/wBqLIH4rtb3piKOjabdS61DaQXV+s0Pl/bLzer/AMG5QguDLgMx/hXHGM8UAbVjYXt5
+eXMXnz2+q203mNPISYpofNkSFnihkSMkxIOqr0oA2R4etLdJbq4d7y6WN8TTnJXg/wCrX7sf/AR9
+aAOaGktZStNpc5s5CcsoG6Bz/tRZA/Fdre9AFHRtNupdahtILq/WaHy/tl5vV/4NyhBcGXAZj/Cu
+OMZ4oA2rGwvby8uYvPnt9VtpvMaeQkxTQ+bIkLPFDIkZJiQdVXpQBsjw9aW6S3Vw73l0sb4mnOSv
+B/1a/dj/AOAj60Ac0NJaylabS5zZyE5ZQN0Dn/aiyB+K7W96AMm18PRazfDSZTczBRGNQnl2TI42
+71UJdecNrPzwmOOvFG4bG1oOgG3M1jbPNZ6hZTGTzXJMUsBmlSFniilRGLRr3A6UAdCPD1pbxy3V
+w73l0sb4mnOSvB/1a/dj/wCAj60AfH3xquvHXw0+I95q1mgh0vUnRoI+Gt3ZIYxJlAflbPPbNAHK
++DNCv/itq6z6zLevbW4kEky3ILKx5RQJNxA+gqbNDINZ1HxV8N/EE8EEssUEU7yW0Lz5SWLcyI8q
+RsAcgd6ErML3Oh+DvjPxfrfj29E9015bz6ZfiYGJSqAWkxUpkfusHuuMjiqXQXQ+gdeVn8JeIFUZ
+Ji1UAf8AApqqfwy9GTH4keBWkj6Fpl5bsQqtHFJk9fnx/KuNrmaZ0rRHLpqFzPuZS2Nx9auyRN2d
+ZHokC+HrmzvrmOOaBm2nIOCfmB+brnNZcz5lZF20MK41Oa70dwYWeS3BC7eUH+1+lVazFfQyILu2
+XTYPmzMbhGb6+YDVpPnIn/Cl6HaR6tbP95MGr5ZI8+xdt7lZ1yvSh6CFkuBH/DSugSHJKrgcindB
+awyZVYU0xFNzawlHuQWgWSMygd0DDd+lRJbmtL+JH1Oqaf4QvAsJm1HylcuqZtOCRjr5ma5/evc9
+LW1tBwufguibTFfdOu6H/wCPU7zC3oN834M/3Lz/AMl/6zUXn5/cFvQnS/8AguBtNtcnHtbj/wBr
+Uvf8w+4Gv/guEIFtdZPfFuf/AGtR7/mH3HP+Orr4dXXh+6ksZb2S+CW8cJl+z7QFkUY+R8/d9qqn
+dTRNW7py22OABUe9bnni78igBCGIouA0gAUAOBwKAG5ZXRj2dD/48KOhVP44+p6bL4Rlt7HT9atp
+DJLMWldcfuuTyM/nXPz6uLPQ5eqJBdCfxFG8CJFDCAdoACbkOOO1K3uj6lHx1rVx421aGCJDGIVK
+Y9SSQT9KqnH2cbsmWuhzN5o02h3zRiXfJHwrJ3Vhxtq1LmQrWLvhzxDqmlaZqqeWZFlgKElT8uTS
+lFNoFsz628A6vFd/D/w5CVcSS6PYrnAxua3QV0x2Ri9zQOmMtwIDcW4lK7hHv+bHPOMZ7GmIpahp
+l7oF7DrSL5iQr5d2kWSzQdQQMcmNuR7FqALXh/UI7a1e4uo5BdXbmabodpP3Y/vdI1wv60AaA1yx
+1BJIYSWZv3f8OAzDvg+9AFWTRp4VDPLCoLKuSxHLHAHTuaG0g3M/UNMvdAvYdaRfMSFfLu0iyWaD
+qCBjkxtyPYtQBa8P6hHbWr3F1HILq7czTdDtJ+7H97pGuF/WgDR/tmzv4dkW4+cuEbjb8w4OQelC
+aaug2K39hXn9+P8AM/4UAZuoaZe6Bew60i+YkK+XdpFks0HUEDHJjbkexagC14f1CO2tXuLqOQXV
+25mm6HaT92P73SNcL+tAGk+rW10jQorhpBsGQMZbj1oA4D4w/DLWvHPgO90mz8lriSS3ZMyFcbJV
+J6jHTPWgDwXwT8G/jB8PvElxcXOkF7AQ4umjmjYFP4WQbvmKn9M0kBt+EP2f7nxf4guPEPjo3EKS
+ytt06IjdsG5VDSiT5QvH3etMD2iw8JeAfh/4P1608O6UbJbmyn8z53kLERvty0kjNxuNCA53X5DD
+4R8QSDqsWqt+TTVUvhfoTH4kfOEqXOsWjSN5jMLdC3HbPArk0i/mdG6K8EksKGNAdqMVGcdqdkwR
+r/EGSK71phaszJHDmR15UFS/9KilpHUqRkvJYadoubL948rqxB7YHNVq5ai2Whmanp7pJDcyKYzL
+OGePjg7hiqg9dCKi9yXodB9mUj5Wq/bNfFE4LE9u88K43VM5JvQLE5u5CvNRdsLEcV2yS/OPlqo8
+qQO7LhuIHTO6rTEZ2oXJW3f04/nSVmxrch1u1U6XFdxsuZ5jGqg85GM5+uRUqK9ty9kdcW1hLtmY
++ixIMtdAD/c/+yrZwRzKb7GfdWcSAhJ8/wDAP/r0rpbFc3kUho8khyZf/Hf/AK9LmQc/kSx6MysC
+JsEd9v8A9ek5DU7Gt4tsktTphTdsniMoz3wcfzBqKX2joxD92PmQBXIyOKo5B0afNk0N6BYV2zQg
+IycGgBPmJo0AcVLMg9XX+YoKp/HH1Pfls77wh4ZhjUiYSJ+9ByUTI6jJ6VxXU5HpLRGPrkenxaFp
+kyTxG5iijYJFwMycuHO481Ub8z7C6Fz4f2Gkarf3srOrTPADl1HmA8g4/L0oneyQXMTX54dO1+0h
+jjSS5QyJ93Py+35U4q8X2E3qiMTeHbLwleyMgW7khmZolDbSTnbztxwtO0nNdgezPefhw6yeE/C7
+AYDadp5/8hJXbHZHO92eT+Kfi14zsV8XalDqMkc2j69c6dCQE2eSty6oGj27GwrYywJod9dRE/g7
+4s+KviLeNFd3KS6dbMsk6mGICRwf3aH5B0Ybj9B61KU+rHp2MjxD8WPE3gTVm0kyqbZUD2jFY/8A
+U9lzt52fd/DNDU+kguux2/w78R61L8W9Y0S4uZJbdLeC6Akbewk/cJ95vm6ds4quojiPFPxo8V3/
+AIk8TaFPOrx6dqOpLDmKIYSKaWNekfZDt5+tY4mPMld6XNaDtJ+hpeBPi34t+IrJFf3iTWNssclz
+mGECWUfcQ4QfxDcfoPWtEp33M9DM1/4n+IvCmsHQGkV7WRQLXKp/qH+UJnbzt+768VNSMnCXvdBw
+aUlp1On+CXjzXfEHjS80m7l3wQCSWMeWi4Pmw56KD1dqKCtCKW1h1fjZga3+0T430vxhr+krdBls
+9Wv7eL9zD/q47iQKP9X/AAqAKqXNfRkq3Y1fBuu6l8XZbefXcyQWFzJdLM6rjf8ALGiKigbdrRlm
+Ht71D5ufV7Fq3Lsc9q3xF8V/DvXbrR455ZbLPmWZkwxEPQKC4Y/LjGM+/eqtK2kiW1fY7L4N/Ejx
+B4w8XtZ37fu0tjMo2IvImiXso9TTi3fV3Ezmdb/aJ8b6X4w1/SVuQy2erX9vF+5h/wBXHcSBR/q/
+4VAFEua+jBW7Gp4O+KPjH4iXjRXcwk062YSTqYIgJHB/dxn5AeGG4/QetC5+rDTsY+v/ABQ8W+Bt
+YfSM7rdUD2p2J/qT0XOznZ938M0Pn/mDTsavgj4keIfGEut2d+x8tNGu5lGxF5BVeyj1NODd9XcT
+2Op8ROsfg/xExGQsOrEj/gU1aS+F+hMfiR5r4HsdH1HwRdXxEZmXCOvcINuK4J3U7HTf3TivEcFo
+dYuDbQyCMtn5HAGe/VauF+VXB7mXYqLfQNSnuJAplXyYR68nP4UPWSsHQyrllt9KsvL+eQyCQ45I
+A/8A1VW8mLoh2tapJqLwvkAZXgfw4IPNOmrSQqrvCXoX1vHQZByK6Gkzzixa6ks52nrWNSCWqKJh
+fQFtuealUptXC4GRGHrmqUWtxXIZA6nIrWPI1YWo26kMloyn2/nT5Ip3QK9y7rRa28JabOcmJNSn
+BPbO2E/0rDmtipf4UdaV8GvVnO3FxJOxyevQVbbZzrcdBbs6/NUtjHOUQ4zS1AWNZJjxwKHZAa3j
+20Wzu9FtyBkWW/I7hyWB6+lRRd1L1OrEq0YehlyjacCrRykZY9KdgELACgBAQeTQAuRikIGDDbjr
+uXH5ii5VNe/H1PZNW1/VI/CkcUhDSuZY3V13MmDg9/yrlUU5novYl8NaFp2s3mhN9t3MjO0ts2du
+YwzLjtnp+FNuS5tA6IzvFy3HhfX79xEqxzDcgAwPft1pw9+KT6A3Yk+H2lXetandyXyFWEAaBnQj
+IJ5Iz+FE7WSQrswda0+GxvdaSe4+Y+ZEm4gKHdf4sZ6VUW2oifU9Q8D/ABr+HHhvwxo1jrOqfYbz
+T7W2gmt2tbtyDCirwVhK/Nj1rqjJNLUwaaZ5VZeLPDOsXvjHdqcUFvf+JLq/hZopjI8DysV2r5eB
+nP8AEf8AgNNySBJmfpPj+90nWbebTtGsrmaDflxJt3gqU+bMMfrmk5xQcrGHxpa32qSf2vZ2unNd
+XEkksy/vXAdi3ygQPx25ahSTCzPQvAXjHQtP+Mmo61c6jHJZT6YiJPFb3CAsjQf8s3TcCdp9R70c
+8b7hys5IeJdHm8SeKY7+azhsLnxDqV5FNLHcvMUuX42rH8oyoH3/AMqznGM5Xv0Li5RRQT4xN4c1
+O1uIdJsZprfcDIFmDONhT58snXOeKUabT0egOV0SaX8S7LxJdzteWdhYi4uJJJ7jbKZdrMX4wWyP
+4fpQ6et2wUtNDq/hf448NaL8THurm6tks00t4UktorvDN9pSX5kk3MCeemR71UFGnfUU25HmniC3
+0fWPiN4hvr3V1sbO61e+uYW8qWSWSOW4dkICqQuQf4uR6VfNFk8rRveEtZn8M6gn2ExX0cX72MtH
+tJ8xCHG540IG5s8cGs5NKV0XHazMO5nTVvGF7qGo3aafHPeStJs3OY93I2jY35VacXFEtO52Pwl8
+b+Evh98Qrm61bWUazNlIqzpbXP3/ADoWAaPytwJCn1HvTjYTTOKvRoXi74geI9TbWUtLC41e+uYn
+8qUyvFJO7qQu3C5B7/lTbiCTJPCer3/hzXY57EQXUkRmP8QDBsj5sqnrUuSXUOVjp9SttQ8Rtcar
+drp5nuHkkZVZ2Ack/KFRxjPHJoTUgs0dh8ONS0zQ/Ees+dqCzW9xot3FDMsMybpHaPaCjJkE49x7
+0KUIvcHGR2PiL4peEJ9F1zS4p5HnuF1CKP8AdMFLTeYU5OMfeFW6kHF6iUJXR42ury6BZS2TI8Xy
+BHAyBkYwea57KTubX5VYitdSW7jMss7KSxwB6UNWBO5mG4muLOJZCxCgjGTjIxRsw6HR32lWWi+E
+0bfHJO58wkYwPlztqFJyn5DtZHHf2g7GVCdyyPGefUGtYr3kRN+5L0NeGIyMSThe9auVjgLitaW8
+ZeM/NWb55uzGVWuC77sYrWK5UJk8V2QemaJLm6gi6l5bbNzfLisnCS6jWpB/atgL61EqboPtEJlx
+3TeN36Uve5Xr0Lpq04+p6S918IGt1g8zUvJVy4Tda43Yxn/WZrn9697Hoa2toOS4+DCrgw3v/fcH
+/wAeovPzC3oRif4L5/1d7/5Ln+ctO8/MLehOl78FkXBtrk4/69//AI9SvPzD7hTqXwV2kC1usnvi
+A/8AtWn7/mH3HP8Aji6+HNzoFzJYyXsl6Ft44TKbfaFWRBj5Hz932p078y0Jq35HtscTJAzDPWtU
+zgsNa3wgbvT5gsVZcKaaAaGXIzQG4Bhng0WEAfEkZPaRP/QhRbRlU/jj6nsdzDYW11p92bvzIZJx
+LIjjB3p8zA8965U201Y9Jm1rlrb22pWGr6VOrFuNka7mPH3gAM5HQ5/Gpi9GmB59468TaxrmpSR3
+B2hFbCbe449u9a04pK5En0IdH8bazpjQTJOxdIvK+i575zmm4RYX0Oi+HWjWPiu71HVL2Rj5bB+Q
+Mb8t8+TnkYqajcUkgXcx/G0un+KLqSMIWkVUSHeh39TjkdadO8EErM5u90uXQ7n7HsAkX5WwOTx2
+zVqXMritY3vBXitNCW+cwws0sSAsw+YY3D5frxUzi3YE0cjrEs+s66728XmeVuJIXPAbJrSNox1E
+9WdJpPim908wzDazpH5fKKQFz3znNQ4pjvodH8OfDuk+KrnUNSvQCIzuwUXG7LfNk56YqKjcUkhq
+25j+MYtG8Q3MkUVsokCokWYsN1ODkDmqpuUVuEkmc7f6Iui3P2MwR+Yvyt8vJ47ZFUpcyvcmyRte
+Dtc07SEvWlsbSUyxJzJGpK43D5eO9Kak7WbGrHKaqh1XW3a1tlZYtxO2PsDk9Kte7HVkvV6I6TSf
+EMunmGURRMyx+XzEhAGepyDmocblJ6HTfDjw3o/im51DUrxV2xHdjYmN2T83fpipqOUUlcatuZPj
+GPR/ENxJFFbqJAqJFmLDdTg5A5p0+aK3CSTOdvtIbQ7n7J5SiRflbC8njtkVSlzK4rWN/wAFeKYt
+CF85ggZpYkBZh8y43D5frxUzi3bUFY5LWJrjWddd7eMyeVuJIXPAbJq42jHUT1Z1Oj+MtW0xoZkl
+JdIvK6Dhc9+uahwTKvodH8OdGsfFV3qOqXsjHy2D8gY35b58nPIxU1G4pJAu5j+NpbDxRdSRhC0i
+qiQ70O/qccjrTp3gglZnO3mjR6PObSZUV4+Dnv8AmKtS5lcVkjGtL26ty5UQkuSTuj9fxrZ0o92c
+n1qp2RFfS3eoRlJpvlJzgKBihUooHipvoijJaJEgO7IXtj3FNQSYvbzkrWRaHnf89f0qrGV12HeX
+KD/rP/HaA07CiC4cj95geuBSvYe/QWaf7McRTbjj+6KVx2XYpu9yw5kJ/CkGg0xSCMs8mfbFAaXN
+rUdKuovDNreCcbZ53hPHTbt6/XNZJr2rVtkdKb+rJmE2jS55n/8AHP8A69acyMOfyFTRHcHE/T/Y
+/wDr0cwc/kPXQpD1n/8AHP8A69Lm8g5/IkXRZlIIucEf7H/16XMuwKduho+JbB7O9tYlm3r5SStx
+6hW/rU02mm7HRiHblQmLoA4m/wDHRT07HNdDgLpkwZv/AB0UadguQzQXAXiTP/ARTTVwViqIbtj9
+/wD8dqroQoinTJ8z/wAdoDQB5hZCXyNy9veh7FU7c8fU9j0LwJea34e+03eqvtUsI1VBgAL9fWuS
+VRRlpE70m92WY7LXPDE2m3l1fxnzwV2eWPk3LwPSi8ZppIevcdo1jb6p4g1K5adIpYYFHMK5+bdu
+wOnQdqUnyxS8wtqzibjwtqFz4jkjt5F8khneQRggD+LHNaqaUNSeV3HaVe6hotvcWcdyEIMiMFQM
+Ttb7w70NKVnYFdF/wDYNfSapqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4
+HOMUoJcrutBu+hmWngPWNX0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJ
+yRhsYqasrytYcU0jAuPC2oXPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMT
+tb7w70NKVnYFdF/wDYNfSapqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4H
+OMUoJcrutBu+hmWngPWNX0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJy
+RhsYqasrytYcU0jAuPC2oXPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMTt
+b7w70NKVnYFdF/wDYNfSapqEk8W21jXCNGCTubr6jFE2lZC1Dxjqdxca1bS20pe4AYf6leG4A4HO
+MUoJcrutBu+hmWngPWNX0a61JJhEGdsJtHJVumO3NN1IxaVhcraOh+HWiWtrokkzXRjnmmKuPJyR
+hsYqasrytYcU0jAuPC2oXPiOSO3kXySGd5BGCAP4sc1SmlDUOV3HaVe6hotvcWcdyEIMiMFQMTtb
+7w70NKVnYFdF/wAA2DX0mqahJPFttY1wjRgk7m6+oxRNpWQtTQ1/ULW81AvJNG77QG3wQ8Y9Nxzi
+oinbT8yjylWDdDXceWP2hu/NFxjZIXmjZVjLHjoKTdgSdyzc6dPAUyME9vSkpD5R6rDbqDIckdqL
+lKKW5Su74ztiNcCiwXIY4j1PWkxbj5LecLkjYPehWHaxHIqiE4OelF7gtzp7+CeH4cecyjy575FQ
+4/ubt38xWN17e3kdMV/svzMp1qjlGKy56YpjJ4ioYZ6VIlox8gUtx0oGy146jaDWYPMyC+nWmM/9
+cYqVHWL9WdOKWsfQoCRdtVY5Q8wY9KLAIJSV60dQIzLuPWmAh2saEAxl3SRrwMun/oQp9Cqa9+Pq
+enJ4h1LSNDu9MgILec6LsA52YBIHWuflUpJnfeyOyuNb0PXbbQ3u8keYjPu6ZCenPes1GUW7FHIf
+EtL3Q797u0eRUvIpPk9PLGDj2Oc1dK0lZ9CZNor/AAs1/T4by4+3yKwMbFSc8LxmqqxelhRdza0W
+xt9U1TUbvTIdxkYhFbHMY4wMnHaoknZJjVjltSWTw5Lq9m5CjKPk4z8+P5Va9/lYnpcf8Ibmwvdf
+unvThfJZIixx8xYdPwFOsrRQots6q4PheBrqaXUYg1vLL+5VhtJY/wB09aj3mlZFHm134t1K2S4t
+jFJHI8jsM/7QOa1UE7MlyZ1fws1/T4by4+3yKwMbFSc8Lxmoqxelhxdza0Wxt9U1TUbvTIdxkYhF
+bHMY4wMnHaoknZJjVjltSWTw5Lq9m5CjKPk4z8+P5Va9/lYnpcf8IbmwvdfunvThfJZIixx8xYdP
+wFOsrRQots6q4PheBrqaXUYg1vLL+5VhtJY/3T1qPeaVkUebXfi3UrZLi2MUkcjyOwz/ALQOa1UE
+7MlyZ1fws1/T4by4+3yKwMbFSc8Lxmoqxelhxdza0Wxt9U1TUbvTIdxkYhFbHMY4wMnHaoknZJjV
+jltSWTw5Lq9m5CjKPk4z8+P5Va9/lYnpcf8ACG5sL3X7p704XyWSIscfMWHT8BTrK0UKLbOquD4X
+ga6ml1GINbyy/uVYbSWP909aj3mlZFHm134t1K2S4tjFJHI8jsM/7QOa1UE7MlyZ1fws1/T4by4+
+3yKwMbFSc8Lxmoqxelhxdza0Wxt9U1TUbvTIdxkYhFbHMY4wMnHaoknZJjVjltSWTw5Lq9m5CjKP
+k4z8+P5Va9/lYnpc4lNQuZ9zKWxuPrWtkiLso2YLEL1J6CteaxxNXNfTNMe8uSj/ALtVHJNTdsag
+aWoahYaRp0ltagZbG5j160JalaIxLrVWlYkHJPenYm5S3PO3XNMQ0AlgkXLGpuNRubun2tjYx+dO
+wLgd6Tk2WoqJkX9219cMwPyigmTF0prWK/tHuQWgW5hMoH9wON36UPZ+g4fHH1PX2n+ELwLCZtR8
+pXLqmbTgkY6+Zmub3r3O7W1tBwufguibTFfdOu6H/wCPU7zC3oN834M/3Lz/AMl/6zUXn5/cFvQn
+S/8AguBtNtcnHtbj/wBrUvf8w+4Gv/guEIFtdZPfFuf/AGtR7/mH3HP+Orr4dXWgXUllLeyXuy3j
+hMv2faFWRRj5Hz932qqfMpImrd05bbHBeW6rweK2OBAyt3PFILACAOmfWmA1kjdsihMB6xNt+Wi4
+DBH5bK55w6H9RSuVD44+p6XL4Rlt7HT9atpDJLMWldcfuuTyM/nWPPq4s7+XqiQXQn8RRvAiRQwg
+HaAAm5DjjtSt7o+pR8da1ceNtWhgiQxiFSmPUkkE/Sqpx9nG7JlroczeaNNod80Yl3yR8Kyd1Ycb
+atS5kK1jb+H/AIn1XQprgiMyKwCklT8uWx2qakU+oRMvXHvPEFzeXEvmNIUDPx/tcLTjaNgepmWt
+xcWSt5U7wiPcmQQDj3qmk+glodr8MPC+k6qbjUr+6GY1GxDhecn5j+VZ1ZNaIqK6mR4xtm8Q+LGS
+1ZWSKNYt3ryef1p03yQ1FJXkZt5o02h3zRiXfJHwrJ3VhxtqlLmQWsbfw/8AE+q6FNcERmRWAUkq
+fly2O1TUin1CJl64954guby4l8xpCgZ+P9rhacbRsD1My1uLiyVvKneER7kyCAce9U0n0EtDtfhh
+4X0nVTcalf3QzGo2IcLzk/MfyrOrJrRFRXUyPGNs3iHxYyWrKyRRrFu9eTz+tOm+SGopK8jNvNGm
+0O+aMS75I+FZO6sONtUpcyC1jb+H/ifVdCmuCIzIrAKSVPy5bHapqRT6hEy9ce88QXN5cS+Y0hQM
+/H+1wtONo2B6mZa3FxZK3lTvCI9yZBAOPeqaT6CWh2vww8L6TqpuNSv7oZjUbEOF5yfmP5VnVk1o
+iorqZHjG2bxD4sZLVlZIo1i3evJ5/WnTfJDUUleRm3mjTaHfNGJd8kfCsndWHG2qUuZBaxt/D/xP
+quhTXBEZkVgFJKn5ctjtU1Ip9QiZeuPeeILm8uJfMaQoGfj/AGuFpxtGwPUy4JJYUMaA7UYqM47V
+VkxIzbRzGPMAGatnIiO51m7hBCHGaBmRc3k8+SzUJiJEZnIGaLisWwfLwi96GxJFq41B4YVVEVcD
+GRSepaehkS3U8jfM5NAh0d0yqQAKA5UxtxKwU49qEwsbFyWHhJ58nd5gTr2JqV/ER0Rv7B6mEbZl
+Iw/6VXMYXFhhaUkFv0p8wNjmtTtJ3/pS5/ILkDxSQuCsmD1yBT5r9ATOl8aQLYy6csZOJEMjDPGc
+Kf61FN6Nm+I2iVob+RhgjoKd7nK4iWd5Lcby3rS6jasiyX2jPrVMSKlzfPA4UKORS3Q0iezuJJLf
+exyaQnuPaZnC+7L/ADpoqHxx9T3iyebw74VsxGwlW5h3srg7RkDoM+9cvxzfkegtEV9d0yO38Laf
+qI2iSCG3dQi7QfPYZ3cknrTi/fa7i6XLvgfQLO7vb+eUBpGt0beV+cFgRwe3T0om27IHoc9rrJp+
+oWU6Rxs4aSMFl/h/yKcFdNA+hpeGbDTI/DK6mLYb5TKzJn5T+8KilNvmtcSE8P6Tp+o+GNR1N4UE
+jTOmMfwhlwKp3UkhNnn+u6bYXHiiS1SMxqzbjzkfd3HjHerg3yXE0uYw7LU7uKCO3jbYpZxx7DNW
+0hJs9P8AgrotnqOn6ldSqDKGwHI+Ybs9DWVbdIqLsiPXWTT9Qsp0jjZw0kYLL/D/AJFTBXTRT6Gl
+4ZsNMj8MrqYthvlMrMmflP7wqKU2+a1xITw/pOn6j4Y1HU3hQSNM6Yx/CGXAqndSSE2ef67pthce
+KJLVIzGrNuPOR93ceMd6uDfJcTS5jDstTu4oI7eNtilnHHsM1bSEmz0/4K6LZ6jp+pXUqgyhsByP
+mG7PQ1lW3SKi7Ij11k0/ULKdI42cNJGCy/w/5FTBXTRT6Gl4ZsNMj8MrqYthvlMrMmflP7wqKU2+
+a1xITw/pOn6j4Y1HU3hQSNM6Yx/CGXAqndSSE2ef67pthceKJLVIzGrNuPOR93ceMd6uDfJcTS5j
+DstTu4oI7eNtilnHHsM1bSEmz0/4K6LZ6jp+pXUqgyhsByPmG7PQ1lW3SKi7Ij11k0/ULKdI42cN
+JGCy/wAP+RUwV00U+hpeGbDTI/DK6mLYb5TKzJn5T+8KilNvmtcSE8P6Tp+o+GNR1N4UEjTOmMfw
+hlwKp3UkhNnnPiqKyt9duVjjkQZBwjgDJGT/AA1pBtxQpWuf/9m=
+
+------=_NextPart_01D5DE7A.4D5A7D50
+Content-Location: file:///C:/D0C89D18/index_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../index.htm"/>
+ <o:File HRef=3D"preview.wmf"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"image001.jpg"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D5DE7A.4D5A7D50--
